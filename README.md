@@ -42,9 +42,9 @@
   </a>
   <a href="https://instagram.com/ferhattufekci_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25" alt="Ferhat's instagram"  />
-  <a href="https://twitter.com/ferhattufekcitr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Ferhat's twitter"  />
-  </a>
+  <a href="https://twitter.com/ferhattufekci_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Ferhat's twitter"  />
+  </a
   <a href="https://www.youtube.com/c/ferhattufekci" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Ferhat's youtube"  />
   </a>
@@ -56,17 +56,17 @@
 
 ###
  
-<p align="left">I'm Ferhat  from Ankara,Turkey.</br></br>- 🔭 I’m working as Senior Software & System Test Engineer.</p>
+<p align="left">I'm Ferhat from Ankara, Turkey.</br></br>- 🔭 I’m working as Senior Software & System Test Engineer.</p>
 - 📚 I'm currently learning Machine Learning field systematically at the machine learning summer camp given by the <a href="https://www.miuul.com/">Miuul</a>.
 <div align="center">
   <img  src = "https://github.com/ferhattufekci/ferhattufekci/blob/main/Images/wall_e_hi_ml.jpg" height="150" alt="Hello Machine Learning ERA"/>
 </div>
 I share the case studies I made in<a href="https://github.com/ferhattufekci/miuul-machine-learning-summer-camp"> my GitHub  repository</a>.</br></br>
-<p align="left">- ⚡ I share my experiences in my business life and learning processes on <a href="https://medium.com/@ferhattufekci"> my Medium page</a>.</p></br>
+<p align="left">- ⚡ I share my experiences in my business life and learning processes on <a href="https://medium.com/@ferhattufekci"> my Medium page</a> and here.</p></br>
  
 
 <h3 align="center">🔍 More Information</h3></br>
-<p align="left">You can find a solution to the common problem that everyone has with a computer in your room. This opportunity shaped my education and professional life. </br></br>I have completed my high school, associate, and undergraduate education in computer science programs with outstanding grades. I have gained <b><i>over three years of experience</i></b> as a solution-focused, team-oriented software engineer, <b><i>participating in all phases of the software development lifecycle (SDLC)</i> </b>. I am proficient in analyzing and coding efficient, well-researched, budget-friendly, and responsive solutions. </br></br>I have experience onto from small to large-scale softwares, multiple areas like highly available, auto-scalable enterprise solutions, and web applications. I have taken on <b><i>systems engineering</i></b> and <b><i>test engineering</i></b> tasks in parallel with my <b><i>software engineering</i></b> responsibilities in defense industry companies. With my requirements analysis and requirements management skills, I ensured the production of the right software that would solve people's problems. On the other hand, with my Test Engineering skills, I ensured the production of quality, useful software. With my coding skills, I automated regression tests in manual tests, reducing testing effort and human errors.</br></br> I am a supportive and enthusiastic team player dedicated to streamlining processes and efficiently resolving project issues. I have a high level of personal morals and integrity. I am goal-oriented, self-motivated, and committed to the successful outcome of the project. I am willing to work hard and have a great desire to learn.</p>
+<p align="left">You can find a solution to the common problem that everyone has with a computer in your room. This opportunity shaped my education and professional life. </br></br>I have completed my high school, associate, and undergraduate education in computer science programs with outstanding grades. I have gained <b><i>over three years of experience</i></b> as a solution-focused, team-oriented software engineer, <b><i>participating in all phases of the software development lifecycle (SDLC)</i> </b>. I am proficient in analyzing and coding efficient, well-researched, budget-friendly, and responsive solutions. </br></br>I have experience onto from small to large-scale softwares, multiple areas like highly available, auto-scalable enterprise solutions, and web applications. I have taken on <b><i>systems engineering</i></b> and <b><i>test engineering</i></b> tasks in parallel with my <b><i>software engineering</i></b> responsibilities in <b><i>defense industry companies</b></i>. With my requirements analysis and requirements management skills, I ensured the production of the right software that would solve people's problems. On the other hand, with my Test Engineering skills, I ensured the production of quality, useful software. With my coding skills, I automated regression tests in manual tests, reducing testing effort and human errors.</br></br> I am a supportive and enthusiastic team player dedicated to streamlining processes and efficiently resolving project issues. I have a high level of personal morals and integrity. I am goal-oriented, self-motivated, and committed to the successful outcome of the project. I am willing to work hard and have a great desire to learn.</p>
 
 ###
 
