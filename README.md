@@ -44,8 +44,8 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25" alt="Ferhat's instagram"  />
   <a href="https://twitter.com/ferhattufekci_" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Ferhat's twitter"  />
-  </a
-  <a href="https://www.youtube.com/c/ferhattufekci" target="_blank">
+  </a>
+  <a href="https://www.youtube.com/@tufekciferhat" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Ferhat's youtube"  />
   </a>
 </div>
