@@ -55,11 +55,6 @@
 ###
 
 <p align="left">I'm Ferhat from Ankara, Turkey.</br></br>- 🔭 I’m working as a Senior System Engineer (Business Analyst) and Test Engineer.</p>
-- 📚 I'm currently learning Machine Learning field systematically at the machine learning summer camp given by the <a href="https://www.miuul.com/">Miuul</a>.
-<div align="center">
-  <img  src = "https://github.com/ferhattufekci/ferhattufekci/blob/main/Images/wall_e_hi_ml.jpg" height="150" alt="Hello Machine Learning ERA"/>
-</div>
-I share the case studies I made in<a href="https://github.com/ferhattufekci/miuul-machine-learning-summer-camp"> my GitHub  repository</a>.</br></br>
 <p align="left">- ⚡ I share my experiences in my business life and learning processes on <a href="https://medium.com/@ferhattufekci"> my Medium page</a> and here.</p></br>
 
 <h3 align="center">🔍 More Information</h3></br>
