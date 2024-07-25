@@ -176,11 +176,8 @@ I am currently continuing my career as a system engineer (business analyst), and
 
 ###
 
-<div align="left">
-  <a href="https://medium.com/@ferhattufekci" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=ferhattufekci&theme=vue-dark&hide_border=true" alt="Layout with last medium posts"/> 
-  </a>
-</div>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ###
 
