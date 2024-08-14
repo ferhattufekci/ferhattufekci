@@ -54,8 +54,9 @@
 
 ###
 
-<p align="left">I'm Ferhat from Ankara, Turkey.</br></br>- 🔭 I’m working as a Senior System Engineer (Business Analyst) and Test Engineer.</p>
-<p align="left">- ⚡ I share my experiences in my business life and learning processes on <a href="https://medium.com/@ferhattufekci"> my Medium page</a> and here.</p></br>
+<p align="left">I'm Ferhat from Ankara, Turkey. I completed my undergraduate education at Ankara University, Department of Computer Engineering (100% English).</br></br>- 🔭 I continue my master's degree in blockchain at Gazi University.</p>
+<p align="left"> 
+<p align="left">- ⚡ Since May 2023, I have been working as a freelance Full Stack Developer & Requirement Engineer & Agile Tester & Blogger. </p></br>
 
 <h3 align="center">🔍 More Information</h3></br>
 <p align="left">The opportunity to solve a common problem experienced by everyone with a computer in your room shaped my education and business life.
@@ -64,9 +65,9 @@ I have completed my high school, associate, and undergraduate education in compu
 
 Since my high school education, I have gained experience by working in different roles such as software engineer, system engineer (business analyst), and test engineer in a solution-oriented, collaborative manner in all steps of the SDLC. I have experience onto from small to large-scale softwares, multiple areas like highly available, auto-scalable enterprise solutions, and web applications.
 
-With my requirements analysis and requirements management skills, I ensured the production of the right software that would solve people's problems. With my Test Engineering skills, I ensured the production of quality, useful software. On the other hand, with my coding skills, I improved the interface and functional requirements. I also automated regression tests in manual tests, reducing testing effort and human errors.
+With my requirements analysis and requirements management skills, I ensure the production of the right software that would solve people's problems. With my Test Engineering skills, I ensure the production of quality, useful software. With my coding skills, I develop the software according to the requirements. On the other hand, I also automate regression tests in manual tests, reducing testing effort and human errors. I share my experiences on my medium page.
 
-I am currently continuing my career as a system engineer (business analyst), and test engineer. I am a supportive and enthusiastic team player dedicated to streamlining processes and efficiently resolving project issues. I have a high level of personal morals and integrity. I am goal-oriented, self-motivated, and committed to the successful outcome of the project. I am willing to work hard and have a great desire to learn.</p>
+I am a supportive and enthusiastic team player dedicated to streamlining processes and efficiently resolving project issues. I have a high level of personal morals and integrity. I am goal-oriented, self-motivated, and committed to the successful outcome of the project. I am willing to work hard and have a great desire to learn.</p>
 
 ###
 
