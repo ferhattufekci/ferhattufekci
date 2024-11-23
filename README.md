@@ -56,7 +56,7 @@
 
 <p align="left">I'm Ferhat from Ankara, Turkey. I completed my undergraduate education at Ankara University, Department of Computer Engineering (100% English).</br></br>- 🔭 I continue my master's degree in blockchain at Gazi University.</p>
 <p align="left"> 
-<p align="left">- ⚡ Since May 2023, I have been working as a freelance Full Stack Developer & Requirement Engineer & Agile Tester & Blogger. </p></br>
+<p align="left">- ⚡ Since 2011, I have been developing software professionally. After 5 years of experience working in the defense industry and various companies, I decided to work freelance. I have been working as a freelance Software Engineer since May 2023. </p></br>
 
 <h3 align="center">🔍 More Information</h3></br>
 <p align="left">The opportunity to solve a common problem experienced by everyone with a computer in your room shaped my education and business life.
