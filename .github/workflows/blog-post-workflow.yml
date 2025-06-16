@@ -2,7 +2,7 @@ name: Latest blog post workflow
 
 on:
   schedule:
-    - cron: "30 4 * * *" # Her gün sabah 07:30'da (UTC+3 yani UTC ye göre 04:30'da) çalışır
+    - cron: "30 4 * * 1" # Her gün sabah 07:30'da (UTC+3 yani UTC ye göre 04:30'da) çalışır
   workflow_dispatch:
 
 jobs:
