@@ -1,0 +1,20 @@
+name: Latest blog post workflow
+
+on:
+  schedule:
+    - cron: "30 4 * * 1" # Her gün sabah 07:30'da (UTC+3 yani UTC ye göre 04:30'da) çalışır
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Fetch and update blog posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: "10"
+          feed_list: "https://medium.com/feed/@ferhattufekci"
