@@ -13,6 +13,8 @@
     Senior Software Engineer | Systems Thinking | INCOSE, BABOK & ISTQB Oriented | Mission-Critical Systems
   </strong>
   <br/>
+  <br/>
+  <br/>
 
 <img height="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding-gif"/>
 
@@ -47,7 +49,7 @@
 
 🎯Through my experience at the Ministry of National Education, defense industry leaders HAVELSAN and MilSOFT, the banking sector, and multiple private enterprises, I have built **deep expertise in**: **system analysis**, **requirements engineering**, **system and software architecture design**, **software development**, **testing**, **project management**, and **technical leadership**.
 
-🔗 View my resume: https://ferhattufekci.github.io/FerhatTufekciCVinEnglish.pdf
+🔗 View my resume: https://ferhattufekci.github.io/FerhatTufekci_CV.pdf
 
 <h2 align="center">🧰 Tech Stack & Tools</h2>
 
