@@ -143,6 +143,7 @@
 ## <p align="center">🔄 Currently Reading </p>
 
 <!-- GOODREADS-LIST:START -->
+- [Cracking the Coding Interview: 189 Programming Questions and Solutions](https://www.goodreads.com/review/show/6835225121?utm_medium=api&utm_source=rss) by Gayle Laakmann McDowell. Avarage Rating: 4.34
 <!-- GOODREADS-LIST:END -->
 
 ---
