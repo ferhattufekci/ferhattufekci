@@ -137,7 +137,11 @@
 ## <p align="center"> ✅ Completed Reads </p>
 
 <!-- GOODREADS-READ-LIST:START -->
-
+- [Algorithms by Robert Sedgewick (28-Apr-2011) Hardcover](https://www.goodreads.com/review/show/7921715687?utm_medium=api&utm_source=rss) by Robert Sedgewick. My Rating/Average Rating: 5/4
+- [Programming in ANSI C](https://www.goodreads.com/review/show/7921729334?utm_medium=api&utm_source=rss) by Ram; Agrawal Kumar. My Rating/Average Rating: 5/5
+- [SİSTEMLERLE DÜŞÜNMEK](https://www.goodreads.com/review/show/7549868152?utm_medium=api&utm_source=rss) by Donella H. Meadows. My Rating/Average Rating: 5/4.67
+- [The Lean Startup: By Eric Ries – Summary Of The Key Ideas In 30 Minutes Or Less](https://www.goodreads.com/review/show/7837693548?utm_medium=api&utm_source=rss) by Jordan Baker. My Rating/Average Rating: /4.2
+- [Clean Architecture](https://www.goodreads.com/review/show/7837684117?utm_medium=api&utm_source=rss) by Robert C. Martin. My Rating/Average Rating: /4.19
 <!-- GOODREADS-READ-LIST:END -->
 
 ## <p align="center">🔄 Currently Reading </p>
