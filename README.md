@@ -178,7 +178,7 @@ Teknikleri: İpuçları Ve Stratejiler](https://medium.com/t%C3%BCrkiye/etkili-g
 - [Programming in ANSI C](https://www.goodreads.com/review/show/7921729334?utm_medium=api&utm_source=rss) by Ram; Agrawal Kumar. My Rating/Average Rating: 5/5
 - [SİSTEMLERLE DÜŞÜNMEK](https://www.goodreads.com/review/show/7549868152?utm_medium=api&utm_source=rss) by Donella H. Meadows. My Rating/Average Rating: 5/4.67
 - [The Lean Startup: By Eric Ries – Summary Of The Key Ideas In 30 Minutes Or Less](https://www.goodreads.com/review/show/7837693548?utm_medium=api&utm_source=rss) by Jordan Baker. My Rating/Average Rating: /4.33
-- [Clean Architecture](https://www.goodreads.com/review/show/7837684117?utm_medium=api&utm_source=rss) by Robert C. Martin. My Rating/Average Rating: /4.19
+- [Clean Architecture](https://www.goodreads.com/review/show/7837684117?utm_medium=api&utm_source=rss) by Robert C. Martin. My Rating/Average Rating: /4.18
 <!-- GOODREADS-READ-LIST:END -->
 
 ## <p align="center">🔄 Currently Reading </p>
