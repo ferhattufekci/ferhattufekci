@@ -156,9 +156,9 @@ Teknikleri: İpuçları Ve Stratejiler](https://medium.com/t%C3%BCrkiye/etkili-g
 - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/review/show/7837682959?utm_medium=api&utm_source=rss) by Robert C. Martin. Average Rating: 4.35
 - [BABOK v3 A Guide to the Business Analysis Body of Knowledge](https://www.goodreads.com/review/show/7837660792?utm_medium=api&utm_source=rss) by IIBA. Average Rating: 3.86
 - [Scrum - İki Katı İşi Yarı Zamanda Yapma Sanatı](https://www.goodreads.com/review/show/7837416446?utm_medium=api&utm_source=rss) by Jeff Sutherland. Average Rating: 4.22
-- [Toyota Ruhu](https://www.goodreads.com/review/show/7740401239?utm_medium=api&utm_source=rss) by Taiichi Ohno. Average Rating: 4
+- [Toyota Ruhu](https://www.goodreads.com/review/show/7740401239?utm_medium=api&utm_source=rss) by Taiichi Ohno. Average Rating: 4.01
 - [Radikal Samimiyet: İnsanlığınızı Kaybetmeden İyi Lider Olun](https://www.goodreads.com/review/show/7482142980?utm_medium=api&utm_source=rss) by Kim Malone Scott. Average Rating: 4.43
-- [Head First Software Architecture: A Learner's Guide to Architectural Thinking](https://www.goodreads.com/review/show/7460117548?utm_medium=api&utm_source=rss) by Raju Gandhi. Average Rating: 3.73
+- [Head First Software Architecture: A Learner's Guide to Architectural Thinking](https://www.goodreads.com/review/show/7460117548?utm_medium=api&utm_source=rss) by Raju Gandhi. Average Rating: 3.74
 - [Fundamentals of Software Architecture: An Engineering Approach](https://www.goodreads.com/review/show/7460111432?utm_medium=api&utm_source=rss) by Mark   Richards. Average Rating: 4.24
 - [Outliers: The Story of Success](https://www.goodreads.com/review/show/6981634872?utm_medium=api&utm_source=rss) by Malcolm Gladwell. Average Rating: 4.19
 - [Puslu Kıtalar Atlası](https://www.goodreads.com/review/show/5863424425?utm_medium=api&utm_source=rss) by İhsan Oktay Anar. Average Rating: 4.51
