@@ -132,7 +132,7 @@ Teknikleri: İpuçları Ve Stratejiler](https://medium.com/t%C3%BCrkiye/etkili-g
 ## <p align="center"> 📖 Next on My List</p>
 
 <!-- GOODREADS-TO-READ-LIST:START -->
-- [Amaç](https://www.goodreads.com/review/show/8399834255?utm_medium=api&utm_source=rss) by Eliyahu M. Goldratt. Average Rating: 4.25
+- [Amaç](https://www.goodreads.com/review/show/8399834255?utm_medium=api&utm_source=rss) by Eliyahu M. Goldratt. Average Rating: 4.24
 - [Etkili İnsanların 7 Alışkanlığı](https://www.goodreads.com/review/show/5863423543?utm_medium=api&utm_source=rss) by Stephen R. Covey. Average Rating: 4.1
 - [OCP Oracle Certified Professional Java SE 21 Developer Study Guide: Exam 1Z0-830 (Sybex Study Guide)](https://www.goodreads.com/review/show/7837465517?utm_medium=api&utm_source=rss) by Jeanne Boyarsky. Average Rating: 4.5
 - [Model-Based Product Line Engineering (MBPLE): The Feature-Based Path to Product Lines Success](https://www.goodreads.com/review/show/8147720654?utm_medium=api&utm_source=rss) by Marco Forlingieri. Average Rating: 4
@@ -145,7 +145,7 @@ Teknikleri: İpuçları Ve Stratejiler](https://medium.com/t%C3%BCrkiye/etkili-g
 - [Introduction to Algorithms](https://www.goodreads.com/review/show/7921722067?utm_medium=api&utm_source=rss) by Thomas H. Cormen. Average Rating: 4.35
 - [Fundamentals of Database Systems 6th (sixth) edition](https://www.goodreads.com/review/show/7921711924?utm_medium=api&utm_source=rss) by Ramez Elmasri. Average Rating: 3
 - [Software Engineering by Sommerville Ian (2015-08-20)](https://www.goodreads.com/review/show/7921709611?utm_medium=api&utm_source=rss) by Ian Sommerville. Average Rating: 4
-- [Introduction to the Design and Analysis of Algorithms](https://www.goodreads.com/review/show/7921707262?utm_medium=api&utm_source=rss) by Anany V. Levitin. Average Rating: 3.75
+- [Introduction to the Design and Analysis of Algorithms](https://www.goodreads.com/review/show/7921707262?utm_medium=api&utm_source=rss) by Anany V. Levitin. Average Rating: 3.74
 - [Unit Testing: Principles, Practices, and Patterns](https://www.goodreads.com/review/show/7921701049?utm_medium=api&utm_source=rss) by Vladimir Khorikov. Average Rating: 4.57
 - [Zirve; Uzmanlasmanin Bilimsel Sirlari](https://www.goodreads.com/review/show/7890718176?utm_medium=api&utm_source=rss) by Anders Ericsson;Robert Pool. Average Rating: 4.5
 - [Software Engineering at Google: Lessons Learned from Programming Over Time](https://www.goodreads.com/review/show/7878844418?utm_medium=api&utm_source=rss) by Titus Winters. Average Rating: 4.19
