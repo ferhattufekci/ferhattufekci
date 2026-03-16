@@ -139,9 +139,9 @@ Teknikleri: İpuçları Ve Stratejiler](https://medium.com/t%C3%BCrkiye/etkili-g
 - [Site Reliability Engineering: How Google Runs Production Systems](https://www.goodreads.com/review/show/7986023486?utm_medium=api&utm_source=rss) by Betsy Beyer. Average Rating: 4.2
 - [The Checklist Manifesto: How to Get Things Right](https://www.goodreads.com/review/show/7922059028?utm_medium=api&utm_source=rss) by Atul Gawande. Average Rating: 4
 - [Atomik Alışkanlıklar](https://www.goodreads.com/review/show/7921759100?utm_medium=api&utm_source=rss) by James Clear. Average Rating: 4.28
-- [Spring Start Here: Learn what you need and learn it well](https://www.goodreads.com/review/show/7921751177?utm_medium=api&utm_source=rss) by Laurentiu Spilca. Average Rating: 4.63
+- [Spring Start Here: Learn what you need and learn it well](https://www.goodreads.com/review/show/7921751177?utm_medium=api&utm_source=rss) by Laurentiu Spilca. Average Rating: 4.61
 - [The C++ Programming Language](https://www.goodreads.com/review/show/7921726433?utm_medium=api&utm_source=rss) by Bjarne Stroustrup. Average Rating: 4.08
-- [Programming: Principles and Practice Using C++](https://www.goodreads.com/review/show/7921725072?utm_medium=api&utm_source=rss) by Bjarne Stroustrup. Average Rating: 4.2
+- [Programming: Principles and Practice Using C++](https://www.goodreads.com/review/show/7921725072?utm_medium=api&utm_source=rss) by Bjarne Stroustrup. Average Rating: 4.19
 - [Introduction to Algorithms](https://www.goodreads.com/review/show/7921722067?utm_medium=api&utm_source=rss) by Thomas H. Cormen. Average Rating: 4.35
 - [Fundamentals of Database Systems 6th (sixth) edition](https://www.goodreads.com/review/show/7921711924?utm_medium=api&utm_source=rss) by Ramez Elmasri. Average Rating: 3
 - [Software Engineering by Sommerville Ian (2015-08-20)](https://www.goodreads.com/review/show/7921709611?utm_medium=api&utm_source=rss) by Ian Sommerville. Average Rating: 4
@@ -160,7 +160,7 @@ Teknikleri: İpuçları Ve Stratejiler](https://medium.com/t%C3%BCrkiye/etkili-g
 - [Toyota Ruhu](https://www.goodreads.com/review/show/7740401239?utm_medium=api&utm_source=rss) by Taiichi Ohno. Average Rating: 4.01
 - [Radikal Samimiyet: İnsanlığınızı Kaybetmeden İyi Lider Olun](https://www.goodreads.com/review/show/7482142980?utm_medium=api&utm_source=rss) by Kim Malone Scott. Average Rating: 4.43
 - [Head First Software Architecture: A Learner's Guide to Architectural Thinking](https://www.goodreads.com/review/show/7460117548?utm_medium=api&utm_source=rss) by Raju Gandhi. Average Rating: 3.75
-- [Fundamentals of Software Architecture: An Engineering Approach](https://www.goodreads.com/review/show/7460111432?utm_medium=api&utm_source=rss) by Mark   Richards. Average Rating: 4.24
+- [Fundamentals of Software Architecture: An Engineering Approach](https://www.goodreads.com/review/show/7460111432?utm_medium=api&utm_source=rss) by Mark   Richards. Average Rating: 4.23
 - [Outliers: The Story of Success](https://www.goodreads.com/review/show/6981634872?utm_medium=api&utm_source=rss) by Malcolm Gladwell. Average Rating: 4.19
 - [Puslu Kıtalar Atlası](https://www.goodreads.com/review/show/5863424425?utm_medium=api&utm_source=rss) by İhsan Oktay Anar. Average Rating: 4.51
 - [The Staff Engineer's Path: A Guide for Individual Contributors Navigating Growth and Change](https://www.goodreads.com/review/show/6171418801?utm_medium=api&utm_source=rss) by Tanya Reilly. Average Rating: 4.35
