@@ -89,6 +89,10 @@
 
 `SQL` `RDMS` `T-SQL` `MySQL` `MSSQL` `PostgreSQL`
 
+<div align="center">
+	<img height="300" src="https://i.pinimg.com/originals/58/d5/57/58d557198b11a41e7e5fed9e4036ae86.gif" alt="Up-gif"/>
+</div>
+
 ---
 
 <h2 align="center">📈 Stats</h2>
@@ -130,6 +134,10 @@ Teknikleri: İpuçları Ve Stratejiler](https://medium.com/t%C3%BCrkiye/etkili-g
 <h2 align="center">📚 Reading Journey </h2>
 
 ## <p align="center"> 📖 Next on My List</p>
+
+<div align="center">
+	<img height="300" src="https://media.giphy.com/media/Dvx8TYTxkbq4o/giphy.gif" alt="Up-gif"/>
+</div>
 
 <!-- GOODREADS-TO-READ-LIST:START -->
 - [Amaç](https://www.goodreads.com/review/show/8399834255?utm_medium=api&utm_source=rss) by Eliyahu M. Goldratt. Average Rating: 4.24
@@ -197,6 +205,10 @@ Teknikleri: İpuçları Ve Stratejiler](https://medium.com/t%C3%BCrkiye/etkili-g
 <p align="center">
   If you find my work helpful or inspiring, consider buying me a coffee to show your support.
 </p>
+
+<div align="center">
+	<img height="300" src="https://i.pinimg.com/originals/30/c8/59/30c859daef7e78e75421d5a59a416a1a.gif" alt="Up-gif"/>
+</div>
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/ferhattufekci" target="_blank">
