@@ -118,6 +118,7 @@
 <h2 align="center">✍️ Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Nike Trail Ayakkabılarındaki Gizli Koordinatlar](https://medium.com/t%C3%BCrkiye/nike-trail-ayakkab%C4%B1lar%C4%B1ndaki-gizli-koordinatlar-2f9bed8fbb80?source=rss-71ee19850804------2)
 - [SLA, SLO ve SLI: Ölçülebilir Güvenilirlik Nasıl Tasarlanır?](https://medium.com/t%C3%BCrkiye/sla-slo-ve-sli-%C3%B6l%C3%A7%C3%BClebilir-g%C3%BCvenilirlik-nas%C4%B1l-tasarlan%C4%B1r-3e98ad1af415?source=rss-71ee19850804------2)
 - [Savunma Sanayisinde Dijital İkiz: Sistem Yaşam Döngüsünde Çevikliğin Anahtarı](https://medium.com/t%C3%BCrkiye/savunma-sanayisinde-dijital-i%CC%87kiz-sistem-ya%C5%9Fam-d%C3%B6ng%C3%BCs%C3%BCnde-%C3%A7evikli%C4%9Fin-anahtar%C4%B1-c244ee31a1dd?source=rss-71ee19850804------2)
 - [Digital Twin in Defense Industry: The Key to Agility in the System Life Cycle](https://medium.com/analysts-corner/digital-twin-in-defense-industry-the-key-to-agility-in-the-system-life-cycle-815efbccf7fe?source=rss-71ee19850804------2)
