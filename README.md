@@ -141,6 +141,7 @@ Teknikleri: İpuçları Ve Stratejiler](https://medium.com/t%C3%BCrkiye/etkili-g
 </div>
 
 <!-- GOODREADS-TO-READ-LIST:START -->
+- [Engineering Leadership: The Hard Parts: Navigating Chaos to Build Teams That Deliver](https://www.goodreads.com/review/show/8482273035?utm_medium=api&utm_source=rss) by Juan Pablo Buriticá. Average Rating: 4.5
 - [Amaç](https://www.goodreads.com/review/show/8399834255?utm_medium=api&utm_source=rss) by Eliyahu M. Goldratt. Average Rating: 4.25
 - [Etkili İnsanların 7 Alışkanlığı](https://www.goodreads.com/review/show/5863423543?utm_medium=api&utm_source=rss) by Stephen R. Covey. Average Rating: 4.1
 - [OCP Oracle Certified Professional Java SE 21 Developer Study Guide: Exam 1Z0-830 (Sybex Study Guide)](https://www.goodreads.com/review/show/7837465517?utm_medium=api&utm_source=rss) by Jeanne Boyarsky. Average Rating: 4.5
@@ -177,9 +178,9 @@ Teknikleri: İpuçları Ve Stratejiler](https://medium.com/t%C3%BCrkiye/etkili-g
 - [SEBOOK - Systems Engineering Body of Knowledge](https://www.goodreads.com/review/show/6171410012?utm_medium=api&utm_source=rss) by wiki team. Average Rating: 
 - [Software Architecture: The Hard Parts: Modern Trade-Off Analyses for Distributed Architectures](https://www.goodreads.com/review/show/6171402489?utm_medium=api&utm_source=rss) by Neal Ford. Average Rating: 4.25
 - [İnsanın Anlam Arayışı](https://www.goodreads.com/review/show/6135652263?utm_medium=api&utm_source=rss) by Viktor E. Frankl. Average Rating: 4.34
-- [Erkekler Marstan Kadınlar Venüsten](https://www.goodreads.com/review/show/6131403521?utm_medium=api&utm_source=rss) by John  Gray. Average Rating: 3.48
+- [Erkekler Marstan Kadınlar Venüsten](https://www.goodreads.com/review/show/6131403521?utm_medium=api&utm_source=rss) by John  Gray. Average Rating: 3.47
 - [Kavgam](https://www.goodreads.com/review/show/5863422175?utm_medium=api&utm_source=rss) by Adolf Hitler. Average Rating: 3.17
-- [Nutuk](https://www.goodreads.com/review/show/5863421259?utm_medium=api&utm_source=rss) by Mustafa Kemal Atatürk. Average Rating: 4.81
+- [Nutuk](https://www.goodreads.com/review/show/5863421259?utm_medium=api&utm_source=rss) by Mustafa Kemal Atatürk. Average Rating: 4.8
 <!-- GOODREADS-TO-READ-LIST:END -->
 
 ## <p align="center"> ✅ Completed Reads </p>
