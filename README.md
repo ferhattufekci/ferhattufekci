@@ -87,7 +87,7 @@
 
 #### 🗃️ Database Technologies
 
-`SQL` `RDMS` `T-SQL` `MySQL` `MSSQL` `PostgreSQL`
+`SQL` `RDBMS` `T-SQL` `MySQL` `MSSQL` `PostgreSQL`
 
 <div align="center">
 	<img height="300" src="https://i.pinimg.com/originals/58/d5/57/58d557198b11a41e7e5fed9e4036ae86.gif" alt="Up-gif"/>
