@@ -141,15 +141,15 @@ Teknikleri: İpuçları Ve Stratejiler](https://medium.com/t%C3%BCrkiye/etkili-g
 </div>
 
 <!-- GOODREADS-TO-READ-LIST:START -->
-- [Engineering Leadership: The Hard Parts: Navigating Chaos to Build Teams That Deliver](https://www.goodreads.com/review/show/8482273035?utm_medium=api&utm_source=rss) by Juan Pablo Buriticá. Average Rating: 4.5
+- [Engineering Leadership: The Hard Parts: Navigating Chaos to Build Teams That Deliver](https://www.goodreads.com/review/show/8482273035?utm_medium=api&utm_source=rss) by Juan Pablo Buriticá. Average Rating: 4.33
 - [Amaç](https://www.goodreads.com/review/show/8399834255?utm_medium=api&utm_source=rss) by Eliyahu M. Goldratt. Average Rating: 4.25
 - [Etkili İnsanların 7 Alışkanlığı](https://www.goodreads.com/review/show/5863423543?utm_medium=api&utm_source=rss) by Stephen R. Covey. Average Rating: 4.1
 - [OCP Oracle Certified Professional Java SE 21 Developer Study Guide: Exam 1Z0-830 (Sybex Study Guide)](https://www.goodreads.com/review/show/7837465517?utm_medium=api&utm_source=rss) by Jeanne Boyarsky. Average Rating: 4.5
 - [Model-Based Product Line Engineering (MBPLE): The Feature-Based Path to Product Lines Success](https://www.goodreads.com/review/show/8147720654?utm_medium=api&utm_source=rss) by Marco Forlingieri. Average Rating: 4
 - [Site Reliability Engineering: How Google Runs Production Systems](https://www.goodreads.com/review/show/7986023486?utm_medium=api&utm_source=rss) by Betsy Beyer. Average Rating: 4.2
 - [The Checklist Manifesto: How to Get Things Right](https://www.goodreads.com/review/show/7922059028?utm_medium=api&utm_source=rss) by Atul Gawande. Average Rating: 4
-- [Atomik Alışkanlıklar](https://www.goodreads.com/review/show/7921759100?utm_medium=api&utm_source=rss) by James Clear. Average Rating: 4.28
-- [Spring Start Here: Learn what you need and learn it well](https://www.goodreads.com/review/show/7921751177?utm_medium=api&utm_source=rss) by Laurentiu Spilca. Average Rating: 4.61
+- [Atomik Alışkanlıklar](https://www.goodreads.com/review/show/7921759100?utm_medium=api&utm_source=rss) by James Clear. Average Rating: 4.27
+- [Spring Start Here: Learn what you need and learn it well](https://www.goodreads.com/review/show/7921751177?utm_medium=api&utm_source=rss) by Laurentiu Spilca. Average Rating: 4.62
 - [The C++ Programming Language](https://www.goodreads.com/review/show/7921726433?utm_medium=api&utm_source=rss) by Bjarne Stroustrup. Average Rating: 4.08
 - [Programming: Principles and Practice Using C++](https://www.goodreads.com/review/show/7921725072?utm_medium=api&utm_source=rss) by Bjarne Stroustrup. Average Rating: 4.19
 - [Introduction to Algorithms](https://www.goodreads.com/review/show/7921722067?utm_medium=api&utm_source=rss) by Thomas H. Cormen. Average Rating: 4.35
@@ -157,18 +157,18 @@ Teknikleri: İpuçları Ve Stratejiler](https://medium.com/t%C3%BCrkiye/etkili-g
 - [Software Engineering by Sommerville Ian (2015-08-20)](https://www.goodreads.com/review/show/7921709611?utm_medium=api&utm_source=rss) by Ian Sommerville. Average Rating: 4
 - [Introduction to the Design and Analysis of Algorithms](https://www.goodreads.com/review/show/7921707262?utm_medium=api&utm_source=rss) by Anany V. Levitin. Average Rating: 3.74
 - [Unit Testing: Principles, Practices, and Patterns](https://www.goodreads.com/review/show/7921701049?utm_medium=api&utm_source=rss) by Vladimir Khorikov. Average Rating: 4.57
-- [Zirve; Uzmanlasmanin Bilimsel Sirlari](https://www.goodreads.com/review/show/7890718176?utm_medium=api&utm_source=rss) by Anders Ericsson;Robert Pool. Average Rating: 4.5
+- [Zirve; Uzmanlasmanin Bilimsel Sirlari](https://www.goodreads.com/review/show/7890718176?utm_medium=api&utm_source=rss) by Anders Ericsson;Robert Pool. Average Rating: 4.53
 - [Software Engineering at Google: Lessons Learned from Programming Over Time](https://www.goodreads.com/review/show/7878844418?utm_medium=api&utm_source=rss) by Titus Winters. Average Rating: 4.19
-- [Leaders Eat Last by Simon Sinek : Book Summary: Why Some Teams Pull Together and Others Don't](https://www.goodreads.com/review/show/7837690828?utm_medium=api&utm_source=rss) by Book Summary. Average Rating: 4.06
+- [Leaders Eat Last by Simon Sinek : Book Summary: Why Some Teams Pull Together and Others Don't](https://www.goodreads.com/review/show/7837690828?utm_medium=api&utm_source=rss) by Book Summary. Average Rating: 4.09
 - [Turn the Ship Around!: A True Story of Turning Followers into Leaders](https://www.goodreads.com/review/show/7837689440?utm_medium=api&utm_source=rss) by L. David Marquet. Average Rating: 4.18
 - [Peopleware: Productive Projects and Teams](https://www.goodreads.com/review/show/7837687802?utm_medium=api&utm_source=rss) by Tom DeMarco. Average Rating: 4.11
 - [The Mythical Man-Month: Essays on Software Engineering](https://www.goodreads.com/review/show/7837686350?utm_medium=api&utm_source=rss) by Frederick P. Brooks Jr.. Average Rating: 4
-- [Effective Java](https://www.goodreads.com/review/show/7837685072?utm_medium=api&utm_source=rss) by Joshua Bloch. Average Rating: 4.59
+- [Effective Java](https://www.goodreads.com/review/show/7837685072?utm_medium=api&utm_source=rss) by Joshua Bloch. Average Rating: 4.58
 - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/review/show/7837682959?utm_medium=api&utm_source=rss) by Robert C. Martin. Average Rating: 4.35
 - [BABOK v3 A Guide to the Business Analysis Body of Knowledge](https://www.goodreads.com/review/show/7837660792?utm_medium=api&utm_source=rss) by IIBA. Average Rating: 3.86
 - [Scrum - İki Katı İşi Yarı Zamanda Yapma Sanatı](https://www.goodreads.com/review/show/7837416446?utm_medium=api&utm_source=rss) by Jeff Sutherland. Average Rating: 4.22
 - [Toyota Ruhu](https://www.goodreads.com/review/show/7740401239?utm_medium=api&utm_source=rss) by Taiichi Ohno. Average Rating: 4.01
-- [Radikal Samimiyet: İnsanlığınızı Kaybetmeden İyi Lider Olun](https://www.goodreads.com/review/show/7482142980?utm_medium=api&utm_source=rss) by Kim Malone Scott. Average Rating: 4.43
+- [Radikal Samimiyet: İnsanlığınızı Kaybetmeden İyi Lider Olun](https://www.goodreads.com/review/show/7482142980?utm_medium=api&utm_source=rss) by Kim Malone Scott. Average Rating: 4.45
 - [Head First Software Architecture: A Learner's Guide to Architectural Thinking](https://www.goodreads.com/review/show/7460117548?utm_medium=api&utm_source=rss) by Raju Gandhi. Average Rating: 3.77
 - [Fundamentals of Software Architecture: An Engineering Approach](https://www.goodreads.com/review/show/7460111432?utm_medium=api&utm_source=rss) by Mark   Richards. Average Rating: 4.23
 - [Outliers: The Story of Success](https://www.goodreads.com/review/show/6981634872?utm_medium=api&utm_source=rss) by Malcolm Gladwell. Average Rating: 4.19
@@ -176,7 +176,7 @@ Teknikleri: İpuçları Ve Stratejiler](https://medium.com/t%C3%BCrkiye/etkili-g
 - [The Staff Engineer's Path: A Guide for Individual Contributors Navigating Growth and Change](https://www.goodreads.com/review/show/6171418801?utm_medium=api&utm_source=rss) by Tanya Reilly. Average Rating: 4.35
 - [Skills of a Successful Software Engineer](https://www.goodreads.com/review/show/6171413309?utm_medium=api&utm_source=rss) by Fernando Doglio. Average Rating: 4.06
 - [SEBOOK - Systems Engineering Body of Knowledge](https://www.goodreads.com/review/show/6171410012?utm_medium=api&utm_source=rss) by wiki team. Average Rating: 
-- [Software Architecture: The Hard Parts: Modern Trade-Off Analyses for Distributed Architectures](https://www.goodreads.com/review/show/6171402489?utm_medium=api&utm_source=rss) by Neal Ford. Average Rating: 4.25
+- [Software Architecture: The Hard Parts: Modern Trade-Off Analyses for Distributed Architectures](https://www.goodreads.com/review/show/6171402489?utm_medium=api&utm_source=rss) by Neal Ford. Average Rating: 4.26
 - [İnsanın Anlam Arayışı](https://www.goodreads.com/review/show/6135652263?utm_medium=api&utm_source=rss) by Viktor E. Frankl. Average Rating: 4.34
 - [Erkekler Marstan Kadınlar Venüsten](https://www.goodreads.com/review/show/6131403521?utm_medium=api&utm_source=rss) by John  Gray. Average Rating: 3.47
 - [Kavgam](https://www.goodreads.com/review/show/5863422175?utm_medium=api&utm_source=rss) by Adolf Hitler. Average Rating: 3.17
