@@ -198,7 +198,7 @@ Teknikleri: İpuçları Ve Stratejiler](https://medium.com/t%C3%BCrkiye/etkili-g
 <!-- GOODREADS-LIST:START -->
 - [Mastering Behavioral Interviews: The Guide to Storytelling in Tech](https://www.goodreads.com/review/show/8482268694?utm_medium=api&utm_source=rss) by Austen McDonald. Avarage Rating: 4.83
 - [System Design Interview – An Insider's Guide: Volume 2](https://www.goodreads.com/review/show/8482267701?utm_medium=api&utm_source=rss) by Alex Xu. Avarage Rating: 4.42
-- [System Design Interview – An insider's guide](https://www.goodreads.com/review/show/8482267160?utm_medium=api&utm_source=rss) by Alex Xu. Avarage Rating: 4.28
+- [System Design Interview – An insider's guide](https://www.goodreads.com/review/show/8482267160?utm_medium=api&utm_source=rss) by Alex Xu. Avarage Rating: 4.27
 - [Kur&apos;an Yolu Meali](https://www.goodreads.com/review/show/8455368944?utm_medium=api&utm_source=rss) by Various. Avarage Rating: 4.33
 - [Rezonans Kanunu](https://www.goodreads.com/review/show/6757668405?utm_medium=api&utm_source=rss) by Pierre Franckh. Avarage Rating: 3.75
 - [Cracking the Coding Interview: 189 Programming Questions and Solutions](https://www.goodreads.com/review/show/6835225121?utm_medium=api&utm_source=rss) by Gayle Laakmann McDowell. Avarage Rating: 4.33
