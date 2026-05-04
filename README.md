@@ -177,9 +177,9 @@ Teknikleri: İpuçları Ve Stratejiler](https://medium.com/t%C3%BCrkiye/etkili-g
 - [The Staff Engineer's Path: A Guide for Individual Contributors Navigating Growth and Change](https://www.goodreads.com/review/show/6171418801?utm_medium=api&utm_source=rss) by Tanya Reilly. Average Rating: 4.35
 - [Skills of a Successful Software Engineer](https://www.goodreads.com/review/show/6171413309?utm_medium=api&utm_source=rss) by Fernando Doglio. Average Rating: 4.06
 - [SEBOOK - Systems Engineering Body of Knowledge](https://www.goodreads.com/review/show/6171410012?utm_medium=api&utm_source=rss) by wiki team. Average Rating: 
-- [Software Architecture: The Hard Parts: Modern Trade-Off Analyses for Distributed Architectures](https://www.goodreads.com/review/show/6171402489?utm_medium=api&utm_source=rss) by Neal Ford. Average Rating: 4.25
+- [Software Architecture: The Hard Parts: Modern Trade-Off Analyses for Distributed Architectures](https://www.goodreads.com/review/show/6171402489?utm_medium=api&utm_source=rss) by Neal Ford. Average Rating: 4.26
 - [İnsanın Anlam Arayışı](https://www.goodreads.com/review/show/6135652263?utm_medium=api&utm_source=rss) by Viktor E. Frankl. Average Rating: 4.34
-- [Erkekler Marstan Kadınlar Venüsten](https://www.goodreads.com/review/show/6131403521?utm_medium=api&utm_source=rss) by John  Gray. Average Rating: 3.47
+- [Erkekler Marstan Kadınlar Venüsten](https://www.goodreads.com/review/show/6131403521?utm_medium=api&utm_source=rss) by John  Gray. Average Rating: 3.46
 - [Kavgam](https://www.goodreads.com/review/show/5863422175?utm_medium=api&utm_source=rss) by Adolf Hitler. Average Rating: 3.17
 - [Nutuk](https://www.goodreads.com/review/show/5863421259?utm_medium=api&utm_source=rss) by Mustafa Kemal Atatürk. Average Rating: 4.8
 <!-- GOODREADS-TO-READ-LIST:END -->
