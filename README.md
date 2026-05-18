@@ -151,7 +151,7 @@ Teknikleri: İpuçları Ve Stratejiler](https://medium.com/t%C3%BCrkiye/etkili-g
 - [Site Reliability Engineering: How Google Runs Production Systems](https://www.goodreads.com/review/show/7986023486?utm_medium=api&utm_source=rss) by Betsy Beyer. Average Rating: 4.2
 - [The Checklist Manifesto: How to Get Things Right](https://www.goodreads.com/review/show/7922059028?utm_medium=api&utm_source=rss) by Atul Gawande. Average Rating: 4
 - [Atomik Alışkanlıklar](https://www.goodreads.com/review/show/7921759100?utm_medium=api&utm_source=rss) by James Clear. Average Rating: 4.27
-- [Spring Start Here: Learn what you need and learn it well](https://www.goodreads.com/review/show/7921751177?utm_medium=api&utm_source=rss) by Laurentiu Spilca. Average Rating: 4.63
+- [Spring Start Here: Learn what you need and learn it well](https://www.goodreads.com/review/show/7921751177?utm_medium=api&utm_source=rss) by Laurentiu Spilca. Average Rating: 4.62
 - [The C++ Programming Language](https://www.goodreads.com/review/show/7921726433?utm_medium=api&utm_source=rss) by Bjarne Stroustrup. Average Rating: 4.08
 - [Programming: Principles and Practice Using C++](https://www.goodreads.com/review/show/7921725072?utm_medium=api&utm_source=rss) by Bjarne Stroustrup. Average Rating: 4.19
 - [Introduction to Algorithms](https://www.goodreads.com/review/show/7921722067?utm_medium=api&utm_source=rss) by Thomas H. Cormen. Average Rating: 4.35
@@ -160,7 +160,7 @@ Teknikleri: İpuçları Ve Stratejiler](https://medium.com/t%C3%BCrkiye/etkili-g
 - [Introduction to the Design and Analysis of Algorithms](https://www.goodreads.com/review/show/7921707262?utm_medium=api&utm_source=rss) by Anany V. Levitin. Average Rating: 3.74
 - [Unit Testing: Principles, Practices, and Patterns](https://www.goodreads.com/review/show/7921701049?utm_medium=api&utm_source=rss) by Vladimir Khorikov. Average Rating: 4.57
 - [Zirve; Uzmanlasmanin Bilimsel Sirlari](https://www.goodreads.com/review/show/7890718176?utm_medium=api&utm_source=rss) by Anders Ericsson;Robert Pool. Average Rating: 4.53
-- [Software Engineering at Google: Lessons Learned from Programming Over Time](https://www.goodreads.com/review/show/7878844418?utm_medium=api&utm_source=rss) by Titus Winters. Average Rating: 4.19
+- [Software Engineering at Google: Lessons Learned from Programming Over Time](https://www.goodreads.com/review/show/7878844418?utm_medium=api&utm_source=rss) by Titus Winters. Average Rating: 4.18
 - [Leaders Eat Last by Simon Sinek : Book Summary: Why Some Teams Pull Together and Others Don't](https://www.goodreads.com/review/show/7837690828?utm_medium=api&utm_source=rss) by Book Summary. Average Rating: 4.09
 - [Turn the Ship Around!: A True Story of Turning Followers into Leaders](https://www.goodreads.com/review/show/7837689440?utm_medium=api&utm_source=rss) by L. David Marquet. Average Rating: 4.18
 - [Peopleware: Productive Projects and Teams](https://www.goodreads.com/review/show/7837687802?utm_medium=api&utm_source=rss) by Tom DeMarco. Average Rating: 4.11
