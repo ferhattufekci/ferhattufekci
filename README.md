@@ -144,9 +144,9 @@ Teknikleri: İpuçları Ve Stratejiler](https://medium.com/t%C3%BCrkiye/etkili-g
 - [Kendi Kendine MBA](https://www.goodreads.com/review/show/8646116564?utm_medium=api&utm_source=rss) by Josh Kaufman. Average Rating: 4.22
 - [Thanks for the Feedback: The Science and Art of Receiving Feedback Well](https://www.goodreads.com/review/show/8574480532?utm_medium=api&utm_source=rss) by Douglas Stone. Average Rating: 4.04
 - [Asking the Right Questions: A Guide to Critical Thinking by M. Neil Browne (2013-12-27)](https://www.goodreads.com/review/show/8542242399?utm_medium=api&utm_source=rss) by M. Neil Browne. Average Rating: 0.0
-- [Engineering Leadership: The Hard Parts: Navigating Chaos to Build Teams That Deliver](https://www.goodreads.com/review/show/8482273035?utm_medium=api&utm_source=rss) by Juan Pablo Buriticá. Average Rating: 4.25
+- [Engineering Leadership: The Hard Parts: Navigating Chaos to Build Teams That Deliver](https://www.goodreads.com/review/show/8482273035?utm_medium=api&utm_source=rss) by Juan Pablo Buriticá. Average Rating: 4.20
 - [Amaç](https://www.goodreads.com/review/show/8399834255?utm_medium=api&utm_source=rss) by Eliyahu M. Goldratt. Average Rating: 4.25
-- [Etkili İnsanların 7 Alışkanlığı](https://www.goodreads.com/review/show/5863423543?utm_medium=api&utm_source=rss) by Stephen R. Covey. Average Rating: 4.10
+- [Etkili İnsanların 7 Alışkanlığı](https://www.goodreads.com/review/show/5863423543?utm_medium=api&utm_source=rss) by Stephen R. Covey. Average Rating: 4.09
 - [OCP Oracle Certified Professional Java SE 21 Developer Study Guide: Exam 1Z0-830 (Sybex Study Guide)](https://www.goodreads.com/review/show/7837465517?utm_medium=api&utm_source=rss) by Jeanne Boyarsky. Average Rating: 4.40
 - [Model-Based Product Line Engineering (MBPLE): The Feature-Based Path to Product Lines Success](https://www.goodreads.com/review/show/8147720654?utm_medium=api&utm_source=rss) by Marco Forlingieri. Average Rating: 4.00
 - [Site Reliability Engineering: How Google Runs Production Systems](https://www.goodreads.com/review/show/7986023486?utm_medium=api&utm_source=rss) by Betsy Beyer. Average Rating: 4.20
@@ -156,7 +156,7 @@ Teknikleri: İpuçları Ve Stratejiler](https://medium.com/t%C3%BCrkiye/etkili-g
 - [Zirve; Uzmanlasmanin Bilimsel Sirlari](https://www.goodreads.com/review/show/7890718176?utm_medium=api&utm_source=rss) by Anders Ericsson;Robert Pool. Average Rating: 4.50
 - [Software Engineering at Google: Lessons Learned from Programming Over Time](https://www.goodreads.com/review/show/7878844418?utm_medium=api&utm_source=rss) by Titus Winters. Average Rating: 4.18
 - [Leaders Eat Last by Simon Sinek : Book Summary: Why Some Teams Pull Together and Others Don't](https://www.goodreads.com/review/show/7837690828?utm_medium=api&utm_source=rss) by Book Summary. Average Rating: 4.09
-- [Turn the Ship Around!: A True Story of Turning Followers into Leaders](https://www.goodreads.com/review/show/7837689440?utm_medium=api&utm_source=rss) by L. David Marquet. Average Rating: 4.17
+- [Turn the Ship Around!: A True Story of Turning Followers into Leaders](https://www.goodreads.com/review/show/7837689440?utm_medium=api&utm_source=rss) by L. David Marquet. Average Rating: 4.18
 - [Peopleware: Productive Projects and Teams](https://www.goodreads.com/review/show/7837687802?utm_medium=api&utm_source=rss) by Tom DeMarco. Average Rating: 4.11
 - [The Mythical Man-Month: Essays on Software Engineering](https://www.goodreads.com/review/show/7837686350?utm_medium=api&utm_source=rss) by Frederick P. Brooks Jr.. Average Rating: 4.00
 - [BABOK v3 A Guide to the Business Analysis Body of Knowledge](https://www.goodreads.com/review/show/7837660792?utm_medium=api&utm_source=rss) by IIBA. Average Rating: 3.86
@@ -182,7 +182,7 @@ Teknikleri: İpuçları Ve Stratejiler](https://medium.com/t%C3%BCrkiye/etkili-g
 <!-- GOODREADS-READ-LIST:START -->
 - [Clean Architecture](https://www.goodreads.com/review/show/7837684117?utm_medium=api&utm_source=rss) by Robert C. Martin. My Rating/Average Rating: 5/4.18
 - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/review/show/7837682959?utm_medium=api&utm_source=rss) by Robert C. Martin. My Rating/Average Rating: 5/4.35
-- [Software Engineering by Sommerville Ian (2015-08-20)](https://www.goodreads.com/review/show/7921709611?utm_medium=api&utm_source=rss) by Ian Sommerville. My Rating/Average Rating: 5/4.33
+- [Software Engineering by Sommerville Ian (2015-08-20)](https://www.goodreads.com/review/show/7921709611?utm_medium=api&utm_source=rss) by Ian Sommerville. My Rating/Average Rating: 5/4.25
 - [Introduction to Algorithms](https://www.goodreads.com/review/show/7921722067?utm_medium=api&utm_source=rss) by Thomas H. Cormen. My Rating/Average Rating: 5/4.35
 - [Spring Start Here: Learn what you need and learn it well](https://www.goodreads.com/review/show/7921751177?utm_medium=api&utm_source=rss) by Laurentiu Spilca. My Rating/Average Rating: 5/4.62
 - [Effective Java](https://www.goodreads.com/review/show/7837685072?utm_medium=api&utm_source=rss) by Joshua Bloch. My Rating/Average Rating: 5/4.59
