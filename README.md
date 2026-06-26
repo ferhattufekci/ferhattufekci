@@ -141,6 +141,10 @@ Teknikleri: İpuçları Ve Stratejiler](https://medium.com/t%C3%BCrkiye/etkili-g
 </div>
 
 <!-- GOODREADS-TO-READ-LIST:START -->
+- [TED Gibi Konuş - Dünyanın En İyi Beyinlerine Göre Topluluk Önünde Konuşmanın 9 Sırrı](https://www.goodreads.com/review/show/8717796188?utm_medium=api&utm_source=rss) by Carmine Gallo. Average Rating: 3.87
+- [İyi Yazmak Üzerine](https://www.goodreads.com/review/show/8717795642?utm_medium=api&utm_source=rss) by William Zinsser. Average Rating: 3.91
+- [Hızlı ve Yavaş Düşünme](https://www.goodreads.com/review/show/8717794856?utm_medium=api&utm_source=rss) by Daniel Kahneman. Average Rating: 4.17
+- [Mizahın İyileştirici Gücü](https://www.goodreads.com/review/show/8709128435?utm_medium=api&utm_source=rss) by Allen Klein. Average Rating: 4.50
 - [Kendi Kendine MBA](https://www.goodreads.com/review/show/8646116564?utm_medium=api&utm_source=rss) by Josh Kaufman. Average Rating: 4.22
 - [Thanks for the Feedback: The Science and Art of Receiving Feedback Well](https://www.goodreads.com/review/show/8574480532?utm_medium=api&utm_source=rss) by Douglas Stone. Average Rating: 4.04
 - [Asking the Right Questions: A Guide to Critical Thinking by M. Neil Browne (2013-12-27)](https://www.goodreads.com/review/show/8542242399?utm_medium=api&utm_source=rss) by M. Neil Browne. Average Rating: 0.0
@@ -166,7 +170,7 @@ Teknikleri: İpuçları Ve Stratejiler](https://medium.com/t%C3%BCrkiye/etkili-g
 - [Head First Software Architecture: A Learner's Guide to Architectural Thinking](https://www.goodreads.com/review/show/7460117548?utm_medium=api&utm_source=rss) by Raju Gandhi. Average Rating: 3.74
 - [Fundamentals of Software Architecture: An Engineering Approach](https://www.goodreads.com/review/show/7460111432?utm_medium=api&utm_source=rss) by Mark   Richards. Average Rating: 4.23
 - [Outliers: The Story of Success](https://www.goodreads.com/review/show/6981634872?utm_medium=api&utm_source=rss) by Malcolm Gladwell. Average Rating: 4.19
-- [Puslu Kıtalar Atlası](https://www.goodreads.com/review/show/5863424425?utm_medium=api&utm_source=rss) by İhsan Oktay Anar. Average Rating: 4.51
+- [Puslu Kıtalar Atlası](https://www.goodreads.com/review/show/5863424425?utm_medium=api&utm_source=rss) by İhsan Oktay Anar. Average Rating: 4.50
 - [The Staff Engineer's Path: A Guide for Individual Contributors Navigating Growth and Change](https://www.goodreads.com/review/show/6171418801?utm_medium=api&utm_source=rss) by Tanya Reilly. Average Rating: 4.35
 - [Skills of a Successful Software Engineer](https://www.goodreads.com/review/show/6171413309?utm_medium=api&utm_source=rss) by Fernando Doglio. Average Rating: 4.06
 - [SEBOOK - Systems Engineering Body of Knowledge](https://www.goodreads.com/review/show/6171410012?utm_medium=api&utm_source=rss) by wiki team. Average Rating: 0.0
