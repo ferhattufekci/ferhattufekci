@@ -2,7 +2,7 @@ name: Latest blog post workflow
 
 on:
   schedule:
-    - cron: "30 4 * * 1" # Her gün sabah 07:30'da (UTC+3 yani UTC ye göre 04:30'da) çalışır
+    - cron: "30 4 * * 1"
   workflow_dispatch:
 
 jobs:
@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
       - name: Fetch and update blog posts
         uses: gautamkrishnar/blog-post-workflow@master

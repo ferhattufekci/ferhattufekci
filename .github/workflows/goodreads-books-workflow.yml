@@ -1,10 +1,10 @@
 name: Latest book list from a goodreads
+
 on:
-  schedule: # Run workflow automatically
-    # This will make it run twice a day (06:00 and 18:00)
-    - cron: "30 4 * * 1" # Her gün sabah 07:30'da (UTC+3 yani UTC ye göre 04:30'da) çalışır
-    # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+  schedule:
+    - cron: "15 5 * * 1"
   workflow_dispatch:
+
 jobs:
   update-readme-with-goodreads-books:
     name: Update this repo's README with goodreads books
@@ -26,9 +26,7 @@ jobs:
         run: |
           python3 << 'EOF'
           import requests, re, os, xml.etree.ElementTree as ET
-
           USER_ID = os.environ["GOODREADS_USER_ID"]
-
           def fetch_shelf(shelf):
               url = f"https://www.goodreads.com/review/list_rss/{USER_ID}?shelf={shelf}&per_page=200"
               r = requests.get(url, headers={"User-Agent": "Mozilla/5.0"}, timeout=15)
@@ -46,33 +44,23 @@ jobs:
                       "my_rating": t("user_rating"),
                   })
               return books
-
           def replace_section(readme, tag, content):
               pattern = rf"(<!-- {tag}:START -->).*?(<!-- {tag}:END -->)"
               replacement = f"<!-- {tag}:START -->\n{content}\n<!-- {tag}:END -->"
               return re.sub(pattern, replacement, readme, flags=re.DOTALL)
-
           with open("README.md", "r", encoding="utf-8") as f:
               readme = f.read()
-
-          # currently-reading
           books = fetch_shelf("currently-reading")
           lines = "\n".join(f"- [{b['title']}]({b['url']}) by {b['author']}. Avarage Rating: {b['avg']}" for b in books)
           readme = replace_section(readme, "GOODREADS-LIST", lines)
-
-          # read
           books = fetch_shelf("read")
           lines = "\n".join(f"- [{b['title']}]({b['url']}) by {b['author']}. My Rating/Average Rating: {b['my_rating']}/{b['avg']}" for b in books)
           readme = replace_section(readme, "GOODREADS-READ-LIST", lines)
-
-          # to-read
           books = fetch_shelf("to-read")
           lines = "\n".join(f"- [{b['title']}]({b['url']}) by {b['author']}. Average Rating: {b['avg']}" for b in books)
           readme = replace_section(readme, "GOODREADS-TO-READ-LIST", lines)
-
           with open("README.md", "w", encoding="utf-8") as f:
               f.write(readme)
-
           print("README updated successfully.")
           EOF
 
@@ -81,5 +69,8 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git diff --cached --quiet || git commit -m "docs: update goodreads book lists"
-          git push
+          git diff --cached --quiet || (
+            git commit -m "docs: update goodreads book lists" &&
+            git pull --rebase origin main &&
+            git push
+          )
