@@ -146,7 +146,7 @@ Teknikleri: İpuçları Ve Stratejiler](https://medium.com/t%C3%BCrkiye/etkili-g
 - [Hızlı ve Yavaş Düşünme](https://www.goodreads.com/review/show/8717794856?utm_medium=api&utm_source=rss) by Daniel Kahneman. Average Rating: 4.17
 - [Mizahın İyileştirici Gücü](https://www.goodreads.com/review/show/8709128435?utm_medium=api&utm_source=rss) by Allen Klein. Average Rating: 4.50
 - [Kendi Kendine MBA](https://www.goodreads.com/review/show/8646116564?utm_medium=api&utm_source=rss) by Josh Kaufman. Average Rating: 4.22
-- [Thanks for the Feedback: The Science and Art of Receiving Feedback Well](https://www.goodreads.com/review/show/8574480532?utm_medium=api&utm_source=rss) by Douglas Stone. Average Rating: 4.04
+- [Thanks for the Feedback: The Science and Art of Receiving Feedback Well](https://www.goodreads.com/review/show/8574480532?utm_medium=api&utm_source=rss) by Douglas Stone. Average Rating: 4.03
 - [Asking the Right Questions: A Guide to Critical Thinking by M. Neil Browne (2013-12-27)](https://www.goodreads.com/review/show/8542242399?utm_medium=api&utm_source=rss) by M. Neil Browne. Average Rating: 0.0
 - [Engineering Leadership: The Hard Parts: Navigating Chaos to Build Teams That Deliver](https://www.goodreads.com/review/show/8482273035?utm_medium=api&utm_source=rss) by Juan Pablo Buriticá. Average Rating: 4.20
 - [Amaç](https://www.goodreads.com/review/show/8399834255?utm_medium=api&utm_source=rss) by Eliyahu M. Goldratt. Average Rating: 4.25
@@ -174,7 +174,7 @@ Teknikleri: İpuçları Ve Stratejiler](https://medium.com/t%C3%BCrkiye/etkili-g
 - [The Staff Engineer's Path: A Guide for Individual Contributors Navigating Growth and Change](https://www.goodreads.com/review/show/6171418801?utm_medium=api&utm_source=rss) by Tanya Reilly. Average Rating: 4.35
 - [Skills of a Successful Software Engineer](https://www.goodreads.com/review/show/6171413309?utm_medium=api&utm_source=rss) by Fernando Doglio. Average Rating: 4.06
 - [SEBOOK - Systems Engineering Body of Knowledge](https://www.goodreads.com/review/show/6171410012?utm_medium=api&utm_source=rss) by wiki team. Average Rating: 0.0
-- [Software Architecture: The Hard Parts: Modern Trade-Off Analyses for Distributed Architectures](https://www.goodreads.com/review/show/6171402489?utm_medium=api&utm_source=rss) by Neal Ford. Average Rating: 4.25
+- [Software Architecture: The Hard Parts: Modern Trade-Off Analyses for Distributed Architectures](https://www.goodreads.com/review/show/6171402489?utm_medium=api&utm_source=rss) by Neal Ford. Average Rating: 4.24
 - [İnsanın Anlam Arayışı](https://www.goodreads.com/review/show/6135652263?utm_medium=api&utm_source=rss) by Viktor E. Frankl. Average Rating: 4.34
 - [Erkekler Marstan Kadınlar Venüsten](https://www.goodreads.com/review/show/6131403521?utm_medium=api&utm_source=rss) by John  Gray. Average Rating: 3.46
 - [Kavgam](https://www.goodreads.com/review/show/5863422175?utm_medium=api&utm_source=rss) by Adolf Hitler. Average Rating: 3.17
@@ -184,13 +184,13 @@ Teknikleri: İpuçları Ve Stratejiler](https://medium.com/t%C3%BCrkiye/etkili-g
 ## <p align="center"> ✅ Completed Reads </p>
 
 <!-- GOODREADS-READ-LIST:START -->
-- [Rezonans Kanunu](https://www.goodreads.com/review/show/6757668405?utm_medium=api&utm_source=rss) by Pierre Franckh. My Rating/Average Rating: 2/3.75
+- [Rezonans Kanunu](https://www.goodreads.com/review/show/6757668405?utm_medium=api&utm_source=rss) by Pierre Franckh. My Rating/Average Rating: 2/3.74
 - [Clean Architecture](https://www.goodreads.com/review/show/7837684117?utm_medium=api&utm_source=rss) by Robert C. Martin. My Rating/Average Rating: 5/4.18
 - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/review/show/7837682959?utm_medium=api&utm_source=rss) by Robert C. Martin. My Rating/Average Rating: 5/4.35
 - [Software Engineering by Sommerville Ian (2015-08-20)](https://www.goodreads.com/review/show/7921709611?utm_medium=api&utm_source=rss) by Ian Sommerville. My Rating/Average Rating: 5/4.25
 - [Introduction to Algorithms](https://www.goodreads.com/review/show/7921722067?utm_medium=api&utm_source=rss) by Thomas H. Cormen. My Rating/Average Rating: 5/4.35
 - [Spring Start Here: Learn what you need and learn it well](https://www.goodreads.com/review/show/7921751177?utm_medium=api&utm_source=rss) by Laurentiu Spilca. My Rating/Average Rating: 5/4.62
-- [Effective Java](https://www.goodreads.com/review/show/7837685072?utm_medium=api&utm_source=rss) by Joshua Bloch. My Rating/Average Rating: 5/4.59
+- [Effective Java](https://www.goodreads.com/review/show/7837685072?utm_medium=api&utm_source=rss) by Joshua Bloch. My Rating/Average Rating: 5/4.58
 - [Introduction to the Design and Analysis of Algorithms](https://www.goodreads.com/review/show/7921707262?utm_medium=api&utm_source=rss) by Anany V. Levitin. My Rating/Average Rating: 4/3.74
 - [Fundamentals of Database Systems 6th (sixth) edition](https://www.goodreads.com/review/show/7921711924?utm_medium=api&utm_source=rss) by Ramez Elmasri. My Rating/Average Rating: 5/4.00
 - [Programming: Principles and Practice Using C++](https://www.goodreads.com/review/show/7921725072?utm_medium=api&utm_source=rss) by Bjarne Stroustrup. My Rating/Average Rating: 5/4.20
@@ -205,7 +205,7 @@ Teknikleri: İpuçları Ve Stratejiler](https://medium.com/t%C3%BCrkiye/etkili-g
 
 <!-- GOODREADS-LIST:START -->
 - [Tongue Fu: Sözlü Dövüş Sanatı](https://www.goodreads.com/review/show/8704961375?utm_medium=api&utm_source=rss) by Sam Horn. Avarage Rating: 3.97
-- [Mastering Behavioral Interviews: The Guide to Storytelling in Tech](https://www.goodreads.com/review/show/8482268694?utm_medium=api&utm_source=rss) by Austen McDonald. Avarage Rating: 4.79
+- [Mastering Behavioral Interviews: The Guide to Storytelling in Tech](https://www.goodreads.com/review/show/8482268694?utm_medium=api&utm_source=rss) by Austen McDonald. Avarage Rating: 4.80
 - [System Design Interview – An Insider's Guide: Volume 2](https://www.goodreads.com/review/show/8482267701?utm_medium=api&utm_source=rss) by Alex Xu. Avarage Rating: 4.42
 - [System Design Interview – An insider's guide](https://www.goodreads.com/review/show/8482267160?utm_medium=api&utm_source=rss) by Alex Xu. Avarage Rating: 4.27
 - [Kur'an Yolu Meali](https://www.goodreads.com/review/show/8455368944?utm_medium=api&utm_source=rss) by Various. Avarage Rating: 4.25
