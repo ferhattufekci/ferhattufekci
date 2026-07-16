@@ -10,7 +10,7 @@
 
 <div align="center">
   <strong>
-    Senior Software Engineer | Systems Thinking | INCOSE, BABOK & ISTQB Oriented | Mission-Critical Systems
+    M-Shaped Computer Engineer & Software Crafter | Systems Thinking | INCOSE, BABOK & ISTQB Oriented | Mission-Critical Systems
   </strong>
   <br/>
   <br/>
@@ -118,6 +118,7 @@
 <h2 align="center">✍️ Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Nike Trail Ayakkabılarındaki Gizli Koordinatlar](https://medium.com/t%C3%BCrkiye/nike-trail-ayakkab%C4%B1lar%C4%B1ndaki-gizli-koordinatlar-2f9bed8fbb80?source=rss-71ee19850804------2)
 - [SLA, SLO ve SLI: Ölçülebilir Güvenilirlik Nasıl Tasarlanır?](https://medium.com/t%C3%BCrkiye/sla-slo-ve-sli-%C3%B6l%C3%A7%C3%BClebilir-g%C3%BCvenilirlik-nas%C4%B1l-tasarlan%C4%B1r-3e98ad1af415?source=rss-71ee19850804------2)
 - [Savunma Sanayisinde Dijital İkiz: Sistem Yaşam Döngüsünde Çevikliğin Anahtarı](https://medium.com/t%C3%BCrkiye/savunma-sanayisinde-dijital-i%CC%87kiz-sistem-ya%C5%9Fam-d%C3%B6ng%C3%BCs%C3%BCnde-%C3%A7evikli%C4%9Fin-anahtar%C4%B1-c244ee31a1dd?source=rss-71ee19850804------2)
@@ -126,7 +127,7 @@
 - [BEDELLİ ASKERLİK](https://medium.com/t%C3%BCrkiye/bedelli%CC%87-askerli%CC%87k-258c7eff1349?source=rss-71ee19850804------2)
 - [SIFIRDAN GEREKSİNİMLER NASIL YAZILIYOR ?](https://medium.com/t%C3%BCrkiye/sifirdan-gereksi%CC%87ni%CC%87mler-nasil-yaziliyor-e4e8366eb66c?source=rss-71ee19850804------2)
 - [Etkili Gereksinim Yazma
-Teknikleri: İpuçları Ve Stratejiler](https://medium.com/t%C3%BCrkiye/etkili-gereksinim-yazma-teknikleri-i%CC%87pu%C3%A7lar%C4%B1-ve-stratejiler-a71de33bcd0f?source=rss-71ee19850804------2)
+  Teknikleri: İpuçları Ve Stratejiler](https://medium.com/t%C3%BCrkiye/etkili-gereksinim-yazma-teknikleri-i%CC%87pu%C3%A7lar%C4%B1-ve-stratejiler-a71de33bcd0f?source=rss-71ee19850804------2)
 - [Gereksinim Mühendisliği Modelleme Teknikleri](https://medium.com/t%C3%BCrkiye/gereksi%CC%87ni%CC%87m-m%C3%BChendi%CC%87sli%CC%87%C4%9Fi%CC%87-modelleme-tekni%CC%87kleri%CC%87-83784683791b?source=rss-71ee19850804------2)
 <!-- BLOG-POST-LIST:END -->
 
@@ -141,6 +142,7 @@ Teknikleri: İpuçları Ve Stratejiler](https://medium.com/t%C3%BCrkiye/etkili-g
 </div>
 
 <!-- GOODREADS-TO-READ-LIST:START -->
+
 - [TED Gibi Konuş - Dünyanın En İyi Beyinlerine Göre Topluluk Önünde Konuşmanın 9 Sırrı](https://www.goodreads.com/review/show/8717796188?utm_medium=api&utm_source=rss) by Carmine Gallo. Average Rating: 3.87
 - [İyi Yazmak Üzerine](https://www.goodreads.com/review/show/8717795642?utm_medium=api&utm_source=rss) by William Zinsser. Average Rating: 3.93
 - [Hızlı ve Yavaş Düşünme](https://www.goodreads.com/review/show/8717794856?utm_medium=api&utm_source=rss) by Daniel Kahneman. Average Rating: 4.17
@@ -168,7 +170,7 @@ Teknikleri: İpuçları Ve Stratejiler](https://medium.com/t%C3%BCrkiye/etkili-g
 - [Toyota Ruhu](https://www.goodreads.com/review/show/7740401239?utm_medium=api&utm_source=rss) by Taiichi Ohno. Average Rating: 4.01
 - [Radikal Samimiyet: İnsanlığınızı Kaybetmeden İyi Lider Olun](https://www.goodreads.com/review/show/7482142980?utm_medium=api&utm_source=rss) by Kim Malone Scott. Average Rating: 4.44
 - [Head First Software Architecture: A Learner's Guide to Architectural Thinking](https://www.goodreads.com/review/show/7460117548?utm_medium=api&utm_source=rss) by Raju Gandhi. Average Rating: 3.75
-- [Fundamentals of Software Architecture: An Engineering Approach](https://www.goodreads.com/review/show/7460111432?utm_medium=api&utm_source=rss) by Mark   Richards. Average Rating: 4.23
+- [Fundamentals of Software Architecture: An Engineering Approach](https://www.goodreads.com/review/show/7460111432?utm_medium=api&utm_source=rss) by Mark Richards. Average Rating: 4.23
 - [Outliers: The Story of Success](https://www.goodreads.com/review/show/6981634872?utm_medium=api&utm_source=rss) by Malcolm Gladwell. Average Rating: 4.19
 - [Puslu Kıtalar Atlası](https://www.goodreads.com/review/show/5863424425?utm_medium=api&utm_source=rss) by İhsan Oktay Anar. Average Rating: 4.51
 - [The Staff Engineer's Path: A Guide for Individual Contributors Navigating Growth and Change](https://www.goodreads.com/review/show/6171418801?utm_medium=api&utm_source=rss) by Tanya Reilly. Average Rating: 4.35
@@ -176,7 +178,7 @@ Teknikleri: İpuçları Ve Stratejiler](https://medium.com/t%C3%BCrkiye/etkili-g
 - [SEBOOK - Systems Engineering Body of Knowledge](https://www.goodreads.com/review/show/6171410012?utm_medium=api&utm_source=rss) by wiki team. Average Rating: 0.0
 - [Software Architecture: The Hard Parts: Modern Trade-Off Analyses for Distributed Architectures](https://www.goodreads.com/review/show/6171402489?utm_medium=api&utm_source=rss) by Neal Ford. Average Rating: 4.24
 - [İnsanın Anlam Arayışı](https://www.goodreads.com/review/show/6135652263?utm_medium=api&utm_source=rss) by Viktor E. Frankl. Average Rating: 4.34
-- [Erkekler Marstan Kadınlar Venüsten](https://www.goodreads.com/review/show/6131403521?utm_medium=api&utm_source=rss) by John  Gray. Average Rating: 3.46
+- [Erkekler Marstan Kadınlar Venüsten](https://www.goodreads.com/review/show/6131403521?utm_medium=api&utm_source=rss) by John Gray. Average Rating: 3.46
 - [Kavgam](https://www.goodreads.com/review/show/5863422175?utm_medium=api&utm_source=rss) by Adolf Hitler. Average Rating: 3.17
 - [Nutuk](https://www.goodreads.com/review/show/5863421259?utm_medium=api&utm_source=rss) by Mustafa Kemal Atatürk. Average Rating: 4.80
 <!-- GOODREADS-TO-READ-LIST:END -->
@@ -184,6 +186,7 @@ Teknikleri: İpuçları Ve Stratejiler](https://medium.com/t%C3%BCrkiye/etkili-g
 ## <p align="center"> ✅ Completed Reads </p>
 
 <!-- GOODREADS-READ-LIST:START -->
+
 - [Rezonans Kanunu](https://www.goodreads.com/review/show/6757668405?utm_medium=api&utm_source=rss) by Pierre Franckh. My Rating/Average Rating: 2/3.74
 - [Clean Architecture](https://www.goodreads.com/review/show/7837684117?utm_medium=api&utm_source=rss) by Robert C. Martin. My Rating/Average Rating: 5/4.18
 - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/review/show/7837682959?utm_medium=api&utm_source=rss) by Robert C. Martin. My Rating/Average Rating: 5/4.35
@@ -204,6 +207,7 @@ Teknikleri: İpuçları Ve Stratejiler](https://medium.com/t%C3%BCrkiye/etkili-g
 ## <p align="center">🔄 Currently Reading </p>
 
 <!-- GOODREADS-LIST:START -->
+
 - [Tongue Fu: Sözlü Dövüş Sanatı](https://www.goodreads.com/review/show/8704961375?utm_medium=api&utm_source=rss) by Sam Horn. Avarage Rating: 3.97
 - [Mastering Behavioral Interviews: The Guide to Storytelling in Tech](https://www.goodreads.com/review/show/8482268694?utm_medium=api&utm_source=rss) by Austen McDonald. Avarage Rating: 4.80
 - [System Design Interview – An Insider's Guide: Volume 2](https://www.goodreads.com/review/show/8482267701?utm_medium=api&utm_source=rss) by Alex Xu. Avarage Rating: 4.42
