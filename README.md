@@ -10,7 +10,7 @@
 
 <div align="center">
   <strong>
-    M-Shaped Computer Engineer & Software Crafter | Systems Thinking | INCOSE, BABOK & ISTQB Oriented | Mission-Critical Systems
+    Software Crafter | M-Shaped Computer Engineer | Building End-to-End Software Systems | INCOSE, BABOK & ISTQB Oriented
   </strong>
   <br/>
   <br/>
