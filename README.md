@@ -141,6 +141,9 @@ Teknikleri: İpuçları Ve Stratejiler](https://medium.com/t%C3%BCrkiye/etkili-g
 </div>
 
 <!-- GOODREADS-TO-READ-LIST:START -->
+- [Zihin Haritaları](https://www.goodreads.com/review/show/8815608391?utm_medium=api&utm_source=rss) by Tony Buzan. Average Rating: 3.80
+- [80 / 20 Kuralı: Daha azla daha fazlasını başarmak](https://www.goodreads.com/review/show/8815606269?utm_medium=api&utm_source=rss) by Richard Koch. Average Rating: 3.43
+- [Toyota Tarzi](https://www.goodreads.com/review/show/8815602607?utm_medium=api&utm_source=rss) by Jeffrey K. Liner. Average Rating: 4.00
 - [The Advantage: Why Organizational Health Trumps Everything Else In Business (J-B Lencioni Series)](https://www.goodreads.com/review/show/8799614323?utm_medium=api&utm_source=rss) by Patrick Lencioni. Average Rating: 4.11
 - [The Five Dysfunctions of a Team](https://www.goodreads.com/review/show/8799613324?utm_medium=api&utm_source=rss) by Patrick Lencioni. Average Rating: 4.09
 - [The Making of a Manager: What to Do When Everyone Looks to You](https://www.goodreads.com/review/show/8799612795?utm_medium=api&utm_source=rss) by Julie Zhuo. Average Rating: 4.17
@@ -150,7 +153,7 @@ Teknikleri: İpuçları Ve Stratejiler](https://medium.com/t%C3%BCrkiye/etkili-g
 - [Hızlı ve Yavaş Düşünme](https://www.goodreads.com/review/show/8717794856?utm_medium=api&utm_source=rss) by Daniel Kahneman. Average Rating: 4.17
 - [Mizahın İyileştirici Gücü](https://www.goodreads.com/review/show/8709128435?utm_medium=api&utm_source=rss) by Allen Klein. Average Rating: 4.50
 - [Kendi Kendine MBA](https://www.goodreads.com/review/show/8646116564?utm_medium=api&utm_source=rss) by Josh Kaufman. Average Rating: 4.22
-- [Thanks for the Feedback: The Science and Art of Receiving Feedback Well](https://www.goodreads.com/review/show/8574480532?utm_medium=api&utm_source=rss) by Douglas Stone. Average Rating: 4.03
+- [Thanks for the Feedback: The Science and Art of Receiving Feedback Well](https://www.goodreads.com/review/show/8574480532?utm_medium=api&utm_source=rss) by Douglas Stone. Average Rating: 4.04
 - [Asking the Right Questions: A Guide to Critical Thinking by M. Neil Browne (2013-12-27)](https://www.goodreads.com/review/show/8542242399?utm_medium=api&utm_source=rss) by M. Neil Browne. Average Rating: 0.0
 - [Engineering Leadership: The Hard Parts: Navigating Chaos to Build Teams That Deliver](https://www.goodreads.com/review/show/8482273035?utm_medium=api&utm_source=rss) by Juan Pablo Buriticá. Average Rating: 4.20
 - [Amaç](https://www.goodreads.com/review/show/8399834255?utm_medium=api&utm_source=rss) by Eliyahu M. Goldratt. Average Rating: 4.25
@@ -171,10 +174,10 @@ Teknikleri: İpuçları Ve Stratejiler](https://medium.com/t%C3%BCrkiye/etkili-g
 - [Scrum - İki Katı İşi Yarı Zamanda Yapma Sanatı](https://www.goodreads.com/review/show/7837416446?utm_medium=api&utm_source=rss) by Jeff Sutherland. Average Rating: 4.22
 - [Toyota Ruhu](https://www.goodreads.com/review/show/7740401239?utm_medium=api&utm_source=rss) by Taiichi Ohno. Average Rating: 4.01
 - [Radikal Samimiyet: İnsanlığınızı Kaybetmeden İyi Lider Olun](https://www.goodreads.com/review/show/7482142980?utm_medium=api&utm_source=rss) by Kim Malone Scott. Average Rating: 4.44
-- [Head First Software Architecture: A Learner's Guide to Architectural Thinking](https://www.goodreads.com/review/show/7460117548?utm_medium=api&utm_source=rss) by Raju Gandhi. Average Rating: 3.75
-- [Fundamentals of Software Architecture: An Engineering Approach](https://www.goodreads.com/review/show/7460111432?utm_medium=api&utm_source=rss) by Mark   Richards. Average Rating: 4.23
+- [Head First Software Architecture: A Learner's Guide to Architectural Thinking](https://www.goodreads.com/review/show/7460117548?utm_medium=api&utm_source=rss) by Raju Gandhi. Average Rating: 3.74
+- [Fundamentals of Software Architecture: An Engineering Approach](https://www.goodreads.com/review/show/7460111432?utm_medium=api&utm_source=rss) by Mark   Richards. Average Rating: 4.22
 - [Outliers: The Story of Success](https://www.goodreads.com/review/show/6981634872?utm_medium=api&utm_source=rss) by Malcolm Gladwell. Average Rating: 4.19
-- [Puslu Kıtalar Atlası](https://www.goodreads.com/review/show/5863424425?utm_medium=api&utm_source=rss) by İhsan Oktay Anar. Average Rating: 4.51
+- [Puslu Kıtalar Atlası](https://www.goodreads.com/review/show/5863424425?utm_medium=api&utm_source=rss) by İhsan Oktay Anar. Average Rating: 4.50
 - [The Staff Engineer's Path: A Guide for Individual Contributors Navigating Growth and Change](https://www.goodreads.com/review/show/6171418801?utm_medium=api&utm_source=rss) by Tanya Reilly. Average Rating: 4.35
 - [Skills of a Successful Software Engineer](https://www.goodreads.com/review/show/6171413309?utm_medium=api&utm_source=rss) by Fernando Doglio. Average Rating: 4.00
 - [SEBOOK - Systems Engineering Body of Knowledge](https://www.goodreads.com/review/show/6171410012?utm_medium=api&utm_source=rss) by wiki team. Average Rating: 0.0
@@ -211,7 +214,7 @@ Teknikleri: İpuçları Ve Stratejiler](https://medium.com/t%C3%BCrkiye/etkili-g
 - [Tongue Fu: Sözlü Dövüş Sanatı](https://www.goodreads.com/review/show/8704961375?utm_medium=api&utm_source=rss) by Sam Horn. Avarage Rating: 3.97
 - [Mastering Behavioral Interviews: The Guide to Storytelling in Tech](https://www.goodreads.com/review/show/8482268694?utm_medium=api&utm_source=rss) by Austen McDonald. Avarage Rating: 4.80
 - [System Design Interview – An Insider's Guide: Volume 2](https://www.goodreads.com/review/show/8482267701?utm_medium=api&utm_source=rss) by Alex Xu. Avarage Rating: 4.41
-- [System Design Interview – An insider's guide](https://www.goodreads.com/review/show/8482267160?utm_medium=api&utm_source=rss) by Alex Xu. Avarage Rating: 4.27
+- [System Design Interview – An insider's guide](https://www.goodreads.com/review/show/8482267160?utm_medium=api&utm_source=rss) by Alex Xu. Avarage Rating: 4.26
 - [Kur'an Yolu Meali](https://www.goodreads.com/review/show/8455368944?utm_medium=api&utm_source=rss) by Various. Avarage Rating: 4.25
 - [Cracking the Coding Interview: 189 Programming Questions and Solutions](https://www.goodreads.com/review/show/6835225121?utm_medium=api&utm_source=rss) by Gayle Laakmann McDowell. Avarage Rating: 4.32
 <!-- GOODREADS-LIST:END -->
