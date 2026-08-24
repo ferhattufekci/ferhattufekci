@@ -156,7 +156,7 @@ Teknikleri: İpuçları Ve Stratejiler](https://medium.com/t%C3%BCrkiye/etkili-g
 - [Thanks for the Feedback: The Science and Art of Receiving Feedback Well](https://www.goodreads.com/review/show/8574480532?utm_medium=api&utm_source=rss) by Douglas Stone. Average Rating: 4.03
 - [Asking the Right Questions: A Guide to Critical Thinking by M. Neil Browne (2013-12-27)](https://www.goodreads.com/review/show/8542242399?utm_medium=api&utm_source=rss) by M. Neil Browne. Average Rating: 0.0
 - [Engineering Leadership: The Hard Parts: Navigating Chaos to Build Teams That Deliver](https://www.goodreads.com/review/show/8482273035?utm_medium=api&utm_source=rss) by Juan Pablo Buriticá. Average Rating: 4.20
-- [Amaç](https://www.goodreads.com/review/show/8399834255?utm_medium=api&utm_source=rss) by Eliyahu M. Goldratt. Average Rating: 4.25
+- [Amaç](https://www.goodreads.com/review/show/8399834255?utm_medium=api&utm_source=rss) by Eliyahu M. Goldratt. Average Rating: 4.24
 - [Etkili İnsanların 7 Alışkanlığı](https://www.goodreads.com/review/show/5863423543?utm_medium=api&utm_source=rss) by Stephen R. Covey. Average Rating: 4.09
 - [OCP Oracle Certified Professional Java SE 21 Developer Study Guide: Exam 1Z0-830 (Sybex Study Guide)](https://www.goodreads.com/review/show/7837465517?utm_medium=api&utm_source=rss) by Jeanne Boyarsky. Average Rating: 4.40
 - [Model-Based Product Line Engineering (MBPLE): The Feature-Based Path to Product Lines Success](https://www.goodreads.com/review/show/8147720654?utm_medium=api&utm_source=rss) by Marco Forlingieri. Average Rating: 4.00
