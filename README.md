@@ -141,13 +141,13 @@ Teknikleri: İpuçları Ve Stratejiler](https://medium.com/t%C3%BCrkiye/etkili-g
 </div>
 
 <!-- GOODREADS-TO-READ-LIST:START -->
-- [Dört Bin Hafta: Ölümlüler İçin Zaman Yönetimi](https://www.goodreads.com/review/show/8901231649?utm_medium=api&utm_source=rss) by Oliver Burkeman. Average Rating: 3.96
+- [Dört Bin Hafta: Ölümlüler İçin Zaman Yönetimi](https://www.goodreads.com/review/show/8901231649?utm_medium=api&utm_source=rss) by Oliver Burkeman. Average Rating: 3.98
 - [Bir Sanatçı Gibi Araklayın](https://www.goodreads.com/review/show/8901226029?utm_medium=api&utm_source=rss) by Austin Kleon. Average Rating: 3.83
 - [Etkili Iletişim](https://www.goodreads.com/review/show/8901223912?utm_medium=api&utm_source=rss) by Alan   Barker. Average Rating: 3.53
 - [Sayısal Zeka: Matematik ve Fende Başarılı Olmanın Sırları (Cebirden Kalmış Olsanız Bile)](https://www.goodreads.com/review/show/8901221857?utm_medium=api&utm_source=rss) by Barbara Oakley. Average Rating: 3.96
 - [Pür Dikkat](https://www.goodreads.com/review/show/8901220893?utm_medium=api&utm_source=rss) by Cal Newport. Average Rating: 4.14
 - [配色事典 応用編―大正・昭和の色彩と商品デザイン: A Dictionary of Color Combinations Vol. 2](https://www.goodreads.com/review/show/8897848938?utm_medium=api&utm_source=rss) by Sanzo Wada. Average Rating: 4.64
-- [配色事典―大正・昭和の色彩ノート: A Dictionary of Color Combinations](https://www.goodreads.com/review/show/8897848406?utm_medium=api&utm_source=rss) by Sanzo Wada. Average Rating: 4.66
+- [配色事典―大正・昭和の色彩ノート: A Dictionary of Color Combinations](https://www.goodreads.com/review/show/8897848406?utm_medium=api&utm_source=rss) by Sanzo Wada. Average Rating: 4.65
 - [Zihin Haritaları](https://www.goodreads.com/review/show/8815608391?utm_medium=api&utm_source=rss) by Tony Buzan. Average Rating: 3.80
 - [80 / 20 Kuralı: Daha azla daha fazlasını başarmak](https://www.goodreads.com/review/show/8815606269?utm_medium=api&utm_source=rss) by Richard Koch. Average Rating: 3.43
 - [Toyota Tarzi](https://www.goodreads.com/review/show/8815602607?utm_medium=api&utm_source=rss) by Jeffrey K. Liner. Average Rating: 4.00
@@ -185,12 +185,12 @@ Teknikleri: İpuçları Ve Stratejiler](https://medium.com/t%C3%BCrkiye/etkili-g
 - [Fundamentals of Software Architecture: An Engineering Approach](https://www.goodreads.com/review/show/7460111432?utm_medium=api&utm_source=rss) by Mark   Richards. Average Rating: 4.22
 - [Outliers: The Story of Success](https://www.goodreads.com/review/show/6981634872?utm_medium=api&utm_source=rss) by Malcolm Gladwell. Average Rating: 4.19
 - [Puslu Kıtalar Atlası](https://www.goodreads.com/review/show/5863424425?utm_medium=api&utm_source=rss) by İhsan Oktay Anar. Average Rating: 4.50
-- [The Staff Engineer's Path: A Guide for Individual Contributors Navigating Growth and Change](https://www.goodreads.com/review/show/6171418801?utm_medium=api&utm_source=rss) by Tanya Reilly. Average Rating: 4.34
+- [The Staff Engineer's Path: A Guide for Individual Contributors Navigating Growth and Change](https://www.goodreads.com/review/show/6171418801?utm_medium=api&utm_source=rss) by Tanya Reilly. Average Rating: 4.35
 - [Skills of a Successful Software Engineer](https://www.goodreads.com/review/show/6171413309?utm_medium=api&utm_source=rss) by Fernando Doglio. Average Rating: 3.91
 - [SEBOOK - Systems Engineering Body of Knowledge](https://www.goodreads.com/review/show/6171410012?utm_medium=api&utm_source=rss) by wiki team. Average Rating: 0.0
 - [Software Architecture: The Hard Parts: Modern Trade-Off Analyses for Distributed Architectures](https://www.goodreads.com/review/show/6171402489?utm_medium=api&utm_source=rss) by Neal Ford. Average Rating: 4.24
 - [İnsanın Anlam Arayışı](https://www.goodreads.com/review/show/6135652263?utm_medium=api&utm_source=rss) by Viktor E. Frankl. Average Rating: 4.33
-- [Erkekler Marstan Kadınlar Venüsten](https://www.goodreads.com/review/show/6131403521?utm_medium=api&utm_source=rss) by John  Gray. Average Rating: 3.46
+- [Erkekler Marstan Kadınlar Venüsten](https://www.goodreads.com/review/show/6131403521?utm_medium=api&utm_source=rss) by John  Gray. Average Rating: 3.47
 - [Kavgam](https://www.goodreads.com/review/show/5863422175?utm_medium=api&utm_source=rss) by Adolf Hitler. Average Rating: 3.17
 - [Nutuk](https://www.goodreads.com/review/show/5863421259?utm_medium=api&utm_source=rss) by Mustafa Kemal Atatürk. Average Rating: 4.81
 <!-- GOODREADS-TO-READ-LIST:END -->
@@ -198,7 +198,7 @@ Teknikleri: İpuçları Ve Stratejiler](https://medium.com/t%C3%BCrkiye/etkili-g
 ## <p align="center"> ✅ Completed Reads </p>
 
 <!-- GOODREADS-READ-LIST:START -->
-- [Rezonans Kanunu](https://www.goodreads.com/review/show/6757668405?utm_medium=api&utm_source=rss) by Pierre Franckh. My Rating/Average Rating: 2/3.74
+- [Rezonans Kanunu](https://www.goodreads.com/review/show/6757668405?utm_medium=api&utm_source=rss) by Pierre Franckh. My Rating/Average Rating: 2/3.73
 - [Clean Architecture](https://www.goodreads.com/review/show/7837684117?utm_medium=api&utm_source=rss) by Robert C. Martin. My Rating/Average Rating: 5/4.18
 - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/review/show/7837682959?utm_medium=api&utm_source=rss) by Robert C. Martin. My Rating/Average Rating: 5/4.35
 - [Software Engineering by Sommerville Ian (2015-08-20)](https://www.goodreads.com/review/show/7921709611?utm_medium=api&utm_source=rss) by Ian Sommerville. My Rating/Average Rating: 5/4.25
