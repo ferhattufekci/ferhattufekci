@@ -141,14 +141,16 @@ Teknikleri: İpuçları Ve Stratejiler](https://medium.com/t%C3%BCrkiye/etkili-g
 </div>
 
 <!-- GOODREADS-TO-READ-LIST:START -->
+- [Hücrenin Şarkısı: Dönüşen Tıp ve Yeni İnsan](https://www.goodreads.com/review/show/9019248149?utm_medium=api&utm_source=rss) by Siddhartha Mukherjee. Average Rating: 4.44
+- [Bırak Yapsınlar Teorisi](https://www.goodreads.com/review/show/9003553375?utm_medium=api&utm_source=rss) by Mel Robbins. Average Rating: 3.55
 - [Her Güne Bir Masal](https://www.goodreads.com/review/show/9000699312?utm_medium=api&utm_source=rss) by Tarık Demirkan. Average Rating: 4.62
 - [Savaşçı](https://www.goodreads.com/review/show/9000696804?utm_medium=api&utm_source=rss) by Doğan Cüceloğlu. Average Rating: 4.07
-- [Dört Bin Hafta: Ölümlüler İçin Zaman Yönetimi](https://www.goodreads.com/review/show/8901231649?utm_medium=api&utm_source=rss) by Oliver Burkeman. Average Rating: 3.96
+- [Dört Bin Hafta: Ölümlüler İçin Zaman Yönetimi](https://www.goodreads.com/review/show/8901231649?utm_medium=api&utm_source=rss) by Oliver Burkeman. Average Rating: 3.95
 - [Bir Sanatçı Gibi Araklayın](https://www.goodreads.com/review/show/8901226029?utm_medium=api&utm_source=rss) by Austin Kleon. Average Rating: 3.83
 - [Etkili Iletişim](https://www.goodreads.com/review/show/8901223912?utm_medium=api&utm_source=rss) by Alan   Barker. Average Rating: 3.53
-- [Sayısal Zeka: Matematik ve Fende Başarılı Olmanın Sırları (Cebirden Kalmış Olsanız Bile)](https://www.goodreads.com/review/show/8901221857?utm_medium=api&utm_source=rss) by Barbara Oakley. Average Rating: 3.97
+- [Sayısal Zeka: Matematik ve Fende Başarılı Olmanın Sırları (Cebirden Kalmış Olsanız Bile)](https://www.goodreads.com/review/show/8901221857?utm_medium=api&utm_source=rss) by Barbara Oakley. Average Rating: 3.93
 - [Pür Dikkat](https://www.goodreads.com/review/show/8901220893?utm_medium=api&utm_source=rss) by Cal Newport. Average Rating: 4.15
-- [配色事典 応用編―大正・昭和の色彩と商品デザイン: A Dictionary of Color Combinations Vol. 2](https://www.goodreads.com/review/show/8897848938?utm_medium=api&utm_source=rss) by Sanzo Wada. Average Rating: 4.65
+- [配色事典 応用編―大正・昭和の色彩と商品デザイン: A Dictionary of Color Combinations Vol. 2](https://www.goodreads.com/review/show/8897848938?utm_medium=api&utm_source=rss) by Sanzo Wada. Average Rating: 4.66
 - [配色事典―大正・昭和の色彩ノート: A Dictionary of Color Combinations](https://www.goodreads.com/review/show/8897848406?utm_medium=api&utm_source=rss) by Sanzo Wada. Average Rating: 4.66
 - [Zihin Haritaları](https://www.goodreads.com/review/show/8815608391?utm_medium=api&utm_source=rss) by Tony Buzan. Average Rating: 3.80
 - [80 / 20 Kuralı: Daha azla daha fazlasını başarmak](https://www.goodreads.com/review/show/8815606269?utm_medium=api&utm_source=rss) by Richard Koch. Average Rating: 3.43
@@ -172,7 +174,7 @@ Teknikleri: İpuçları Ve Stratejiler](https://medium.com/t%C3%BCrkiye/etkili-g
 - [Site Reliability Engineering: How Google Runs Production Systems](https://www.goodreads.com/review/show/7986023486?utm_medium=api&utm_source=rss) by Betsy Beyer. Average Rating: 4.19
 - [The Checklist Manifesto: How to Get Things Right](https://www.goodreads.com/review/show/7922059028?utm_medium=api&utm_source=rss) by Atul Gawande. Average Rating: 4.00
 - [Atomik Alışkanlıklar](https://www.goodreads.com/review/show/7921759100?utm_medium=api&utm_source=rss) by James Clear. Average Rating: 4.26
-- [Unit Testing: Principles, Practices, and Patterns](https://www.goodreads.com/review/show/7921701049?utm_medium=api&utm_source=rss) by Vladimir Khorikov. Average Rating: 4.56
+- [Unit Testing: Principles, Practices, and Patterns](https://www.goodreads.com/review/show/7921701049?utm_medium=api&utm_source=rss) by Vladimir Khorikov. Average Rating: 4.55
 - [Zirve; Uzmanlasmanin Bilimsel Sirlari](https://www.goodreads.com/review/show/7890718176?utm_medium=api&utm_source=rss) by Anders Ericsson;Robert Pool. Average Rating: 4.50
 - [Software Engineering at Google: Lessons Learned from Programming Over Time](https://www.goodreads.com/review/show/7878844418?utm_medium=api&utm_source=rss) by Titus Winters. Average Rating: 4.18
 - [Leaders Eat Last by Simon Sinek : Book Summary: Why Some Teams Pull Together and Others Don't](https://www.goodreads.com/review/show/7837690828?utm_medium=api&utm_source=rss) by Book Summary. Average Rating: 4.09
