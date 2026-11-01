@@ -43,7 +43,7 @@
 
 🎓 I have a **strong academic foundation in Computer Science** and **over 10 years of hands-on professional experience**, bridging theory with real-world, large-scale software systems.
 
-🏅 I graduated at the top of my department in **Web Technologies and Software Development** from **Yenikent Ahmet Çiçek Anatolian Technical High School** and in **Computer Programming** from **Gazi University's TUSAŞ Vocational School**. I also earned a **B.Sc. in Computer Engineering** from **Ankara University**, completing a fully English-taught program with a **GPA of 3.0 or higher on a 4.0 scale**.
+🏅 I graduated first in my department at both **Yenikent Ahmet Çiçek Anatolian Technical High School** (**Web Technologies and Software Development**) and **Gazi University’s TUSAŞ Vocational School** (**Computer Programming**). I also earned a **B.Sc. in Computer Engineering** from **Ankara University** through a program taught entirely in English, graduating with a **GPA of 3.0 or higher on a 4.0 scale**.
 
 💼 Since 2011, I’ve built **versatile experience across the Software Development Lifecycle (SDLC) and the Software Testing Lifecycle (STLC)** — taking on roles such as **INCOSE-oriented Systems Engineer**, **BABOK-aligned Business Analyst**, **Product Owner**, **Full Stack Software Developer**, **ISTQB-oriented Test Engineer**, and **Product Manager**. I have contributed to a wide range of projects, including time-critical systems and enterprise-level desktop and web applications requiring high availability and automatic scalability.
 
