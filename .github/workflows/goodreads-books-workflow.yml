@@ -4,73 +4,78 @@ on:
   schedule:
     - cron: "15 5 * * 1"
   workflow_dispatch:
+  pull_request:
+    paths:
+      - '.github/workflows/goodreads-books-workflow.yml'
+      - 'scripts/update_goodreads.py'
+      - 'tests/test_update_goodreads.py'
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/goodreads-books-workflow.yml'
+      - 'scripts/update_goodreads.py'
+      - 'tests/test_update_goodreads.py'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: goodreads-${{ github.ref }}
+  cancel-in-progress: false
 
 jobs:
+  test:
+    name: Test Goodreads updater
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7.1.0
+        with:
+          python-version: '3.12'
+      - run: python -m unittest discover -s tests -v
+
   update-readme-with-goodreads-books:
     name: Update this repo's README with goodreads books
-    runs-on: ubuntu-latest
+    needs: test
+    if: >-
+      (github.event_name == 'schedule' || github.event_name == 'workflow_dispatch') &&
+      github.ref == format('refs/heads/{0}', github.event.repository.default_branch)
+    permissions:
+      contents: write
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
     steps:
-      - uses: actions/checkout@v4
-
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7.1.0
         with:
-          python-version: '3.x'
-
-      - name: Install dependencies
-        run: pip install requests
-
-      - name: Update README with Goodreads books
+          python-version: '3.12'
+      - name: Refresh Goodreads snapshot
+        id: refresh
         env:
           GOODREADS_USER_ID: "156149291"
         run: |
-          python3 << 'EOF'
-          import requests, re, os, xml.etree.ElementTree as ET
-          USER_ID = os.environ["GOODREADS_USER_ID"]
-          def fetch_shelf(shelf):
-              url = f"https://www.goodreads.com/review/list_rss/{USER_ID}?shelf={shelf}&per_page=200"
-              r = requests.get(url, headers={"User-Agent": "Mozilla/5.0"}, timeout=15)
-              r.raise_for_status()
-              root = ET.fromstring(r.content)
-              items = root.findall(".//item")
-              books = []
-              for item in items:
-                  def t(tag): return (item.findtext(tag) or "").strip()
-                  books.append({
-                      "title": t("title"),
-                      "url": t("link"),
-                      "author": t("author_name"),
-                      "avg": t("average_rating"),
-                      "my_rating": t("user_rating"),
-                  })
-              return books
-          def replace_section(readme, tag, content):
-              pattern = rf"(<!-- {tag}:START -->).*?(<!-- {tag}:END -->)"
-              replacement = f"<!-- {tag}:START -->\n{content}\n<!-- {tag}:END -->"
-              return re.sub(pattern, replacement, readme, flags=re.DOTALL)
-          with open("README.md", "r", encoding="utf-8") as f:
-              readme = f.read()
-          books = fetch_shelf("currently-reading")
-          lines = "\n".join(f"- [{b['title']}]({b['url']}) by {b['author']}. Avarage Rating: {b['avg']}" for b in books)
-          readme = replace_section(readme, "GOODREADS-LIST", lines)
-          books = fetch_shelf("read")
-          lines = "\n".join(f"- [{b['title']}]({b['url']}) by {b['author']}. My Rating/Average Rating: {b['my_rating']}/{b['avg']}" for b in books)
-          readme = replace_section(readme, "GOODREADS-READ-LIST", lines)
-          books = fetch_shelf("to-read")
-          lines = "\n".join(f"- [{b['title']}]({b['url']}) by {b['author']}. Average Rating: {b['avg']}" for b in books)
-          readme = replace_section(readme, "GOODREADS-TO-READ-LIST", lines)
-          with open("README.md", "w", encoding="utf-8") as f:
-              f.write(readme)
-          print("README updated successfully.")
-          EOF
-
-      - name: Commit and push if changed
+          status=0
+          python scripts/update_goodreads.py || status=$?
+          # Exit 3 explicitly means the optional upstream feed is unavailable.
+          # The updater reports a warning and preserves the previous snapshot.
+          if [ "$status" -ne 0 ] && [ "$status" -ne 3 ]; then
+            exit "$status"
+          fi
+      - name: Commit and push if updated
+        if: steps.refresh.outputs.status == 'updated'
+        env:
+          TARGET_BRANCH: ${{ github.event.repository.default_branch }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git diff --cached --quiet || (
-            git commit -m "docs: update goodreads book lists" &&
-            git pull --rebase origin main &&
-            git push
-          )
+          git add -- README.md
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git commit -m "docs: update goodreads book lists"
+          git pull --rebase origin "$TARGET_BRANCH"
+          git push origin "HEAD:$TARGET_BRANCH"
